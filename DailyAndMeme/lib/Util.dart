@@ -42,7 +42,7 @@ double myResponsiveFontSize = 1;
 const double defaultEdgeInsets = 16;
 
 // bottomsheet
-final String githubURL = "https://github.com/mw3155/DailyAndMeme";
+final String githubURL = "https://github.com/mw3155/mw3155.github.io";
 
 Widget buildBottomSheet(BuildContext context) {
   return AnimatedContainer(
