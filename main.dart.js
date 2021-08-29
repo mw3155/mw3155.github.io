@@ -64442,7 +64442,7 @@ gBX:function(){var s=this.e
 s=s==null?null:s.a.a
 return s===!0},
 bg:function(){this.bK()
-$.rQ().dP(0,"assets/animations/animation-dailyrobot-v3.riv").cd(0,new U.a81(this),t.P)},
+$.rQ().dP(0,"assets/animations/animation-dailyrobot-v4.riv").cd(0,new U.a81(this),t.P)},
 L:function(a,b){var s,r,q,p,o=this,n=b.a7(t.w).f.a.giC()*0.6
 if($.fi&&o.gBX())o.Jd()
 if(!$.fi&&!o.gBX())o.Jd()
