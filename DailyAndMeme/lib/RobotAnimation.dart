@@ -47,7 +47,7 @@ class _RobotAnimationState extends State<RobotAnimation> {
 
     // Load the animation file from the bundle, note that you could also
     // download this. The RiveFile just expects a list of bytes.
-    rootBundle.load('assets/animations/animation-dailyrobot-v4.riv').then(
+    rootBundle.load('assets/animations/animation-dailyrobot-v5.riv').then(
       (data) async {
         // Load the RiveFile from the binary data.
         myRiveFile = RiveFile.import(data);
@@ -80,7 +80,8 @@ class _RobotAnimationState extends State<RobotAnimation> {
         myRiveFile != null &&
         currentSpeaker < meetingPersons.length) {
       Random nextRandom = new Random();
-      int nextRandomInt = nextRandom.nextInt(3);
+      int nextRandomInt = nextRandom.nextInt(robotAnimations.length);
+      print("nextanim:" + nextRandomInt.toString());
       _changeAnimation(robotAnimations[nextRandomInt]);
 
       // save if pick success/fail for computing accuracy
