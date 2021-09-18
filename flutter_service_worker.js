@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "663cb2f5063af69fb4c96a30ce138757",
+  "assets/AssetManifest.json": "3d85c89ccbc5771b527b412448801ed2",
 "assets/assets/animations/animation-dailyrobot-v3.riv": "a40fa5a1e00ced68895c9a5fba70fde9",
 "assets/assets/animations/animation-dailyrobot-v4.riv": "7603f3f33b6ced643e68bbd58fa26544",
+"assets/assets/animations/animation-dailyrobot-v5.riv": "9da84966f714df025cd06037092fecb4",
 "assets/assets/animations/animation-robot1.riv": "a34e1ec4b093ab82e941aab0d910748f",
 "assets/assets/animations/animation-robot2.riv": "d40fe16e535fb211b3f63ca75b0db130",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -217,9 +218,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "b3c9af9eea7769afb94d23095a4d56eb",
-"/": "b3c9af9eea7769afb94d23095a4d56eb",
-"main.dart.js": "d8e38477f92aa24432a29e45eb262988",
+"index.html": "d5f7db06973336ac55d2332da1c99ada",
+"/": "d5f7db06973336ac55d2332da1c99ada",
+"main.dart.js": "88c53e25b49e8d2748b3ecba7c7ff216",
 "manifest.json": "2b5971204ed299ec2d4bed792140fd91",
 "version.json": "f85f11b6c995814878e9d75d6d0d229b"
 };
