@@ -1,10 +1,10 @@
 ## Visit dailyandmeme.xyz
 
-## Root Folder has the built javascript code from flutter
+## Repo Structure  
+- Root Folder has the built javascript code from flutter  
+- Flutter source code is in DailyAndMeme folder  
 
-## Flutter source code in DailyAndMeme folder
-
-TODO:
+## TODO:  
 * better robot animations
 * better leaderboard
 * like and share buttons
@@ -15,5 +15,6 @@ TODO:
 * donations (buy me a beer)
 
 
-How to build:
-./buildAndPublish.ps1
+## How to build:  
+cd DailyAndMeme  
+./buildAndPublish.ps1  
