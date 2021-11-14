@@ -23,8 +23,14 @@ double nMillisecondsPassedCurrentSpeaker = 0;
 
 // robot timer
 List<Duration> durationPicks = [Duration(seconds: 3), Duration(seconds: 30)];
-List<String> robotAnimations = ["Animation-Success", "Animation-Success-Drop-High", 
-  "Animation-Success-Throw", "Animation-Dropped", "Animation-NoObject"];
+List<String> robotAnimations = [
+  "Animation-Success",
+  "Animation-Success-Drop-High",
+  "Animation-Success-Throw",
+  "Animation-Dropped",
+  "Animation-NoObject"
+];
+int currentAnimationIdx = -1;
 Timer? dummyTimer;
 // history 1 = successful pick else 0
 List<List<int>> pickHistoryPerPerson = [];

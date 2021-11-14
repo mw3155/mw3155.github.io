@@ -196,6 +196,8 @@ class _TimerPageState extends State<TimerPage> with SingleTickerProviderStateMix
   void _goToNextSpeaker() {
     isExtraTime = false;
     isTimePaused = false;
+    // TODO: maybe need to add last animation to history here
+    currentAnimationIdx = -1;
     nMillisecondsPassedCurrentSpeaker = 0;
     dummyTimer!.cancel();
     currentSpeaker++;

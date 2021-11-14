@@ -84,12 +84,18 @@ class _RobotAnimationState extends State<RobotAnimation> {
       print("nextanim:" + nextRandomInt.toString());
       _changeAnimation(robotAnimations[nextRandomInt]);
 
-      // save if pick success/fail for computing accuracy
-      print("adding hisotry for person $currentSpeaker");
-      if (robotAnimations[nextRandomInt].contains("Success"))
-        pickHistoryPerPerson[currentSpeaker].add(1);
-      else
-        pickHistoryPerPerson[currentSpeaker].add(0);
+      // add previous animation outcome to history
+      if (currentAnimationIdx != -1){
+        // save if pick success/fail for computing accuracy
+        print("adding history for person $currentSpeaker");
+        if (robotAnimations[currentAnimationIdx].contains("Success"))
+          pickHistoryPerPerson[currentSpeaker].add(1);
+        else
+          pickHistoryPerPerson[currentSpeaker].add(0);
+      }
+
+      // save new animation outcome to add to history next time
+      currentAnimationIdx = nextRandomInt;
     }
 
     return Column(
