@@ -202,7 +202,7 @@ class _TimerPageState extends State<TimerPage> with SingleTickerProviderStateMix
     print(meetingPersons.length);
     print(currentSpeaker);
     currentSpeaker >= meetingPersons.length
-        ? Navigator.pushNamed(context, "leaderboard")
+        ? Navigator.pushNamed(context, "scoreboard")
         : Navigator.pushNamed(context, "timer");
   }
 

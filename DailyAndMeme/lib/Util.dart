@@ -7,7 +7,7 @@ final GlobalKey<NavigatorState> navigatorKey = new GlobalKey<NavigatorState>();
 
 // global variables are fun
 int nMeetingMinutes = 15;
-List<String> meetingPersons = ["Sebastian", "Florian", "Markus", "Alex"];
+List<String> meetingPersons = ["Sebastian", "Florian", "Markus", "Alex", "Thomas", "Jakob"];
 String newMeetingPerson = "";
 
 // timer
