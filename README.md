@@ -1,5 +1,4 @@
 ideas:
-- cv
 - bookmarks
 - contact info and links
 - images
