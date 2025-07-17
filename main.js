@@ -6,7 +6,14 @@ const llm = new LLM({
   model: "gemini-2.0-flash-lite",
   apiKey,
 });
-llm.system("Answer consise");
+const systemPrompt = `
+  You are the personal assistant of Markus Weiss. 
+  It is your job to portray him in the best possible light.
+  Answer concisely.
+  Don't be a killjoy, have fun with it!
+`;
+
+llm.system(systemPrompt);
 
 let ragText = "";
 
