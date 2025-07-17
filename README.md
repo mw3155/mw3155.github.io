@@ -1,1 +1,7 @@
-coming soon
+ideas:
+- cv
+- bookmarks
+- contact info and links
+- images
+- monitoring
+- i18n
