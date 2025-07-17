@@ -1,23 +1,58 @@
-secret is 3155
+# life related info
 
+things i like
+- simple emojis
+- The terminal
+- Exploration
+- Exotic fruits
+- german forest / hiking
 
-# info about Markus Weiss
-things i 
-Like
-simple emojis
-The terminal
-Exploration
-Exotic fruits
+things i dislike
+- mint leaves in food or drinks
+- Driving scooters
+- carrying around cash
+- applying sunscreen
 
+impressions from taveling
+- india: most delicious food, welcoming people, raw nature, eye opening to also see the problems
+- japan: clean, rich culture, kinda futuristic
+- south east asia: everyone has a smile, enjoying life with as littel possessions they have
 
-Dislike
-mint leaves in food or drinks
-Driving scooters
-Cash
-Sunscreen
+vegetarian for ethical reasons
+- there are plenty of veg options for everything; i dont need to have animals killed to get a certain taste
+
+love diving
+- feels like flying / zero g
+- fascinating creatues and ecosystem
+
 
 # work related info
-studied machine learning at FAU
-had a startup that failed
-interested in AI safety
+
+studied machine learning at FAU Erlangen-Nürnberg
+master thesis training a computer vision model 
+- to help register medical images 
+- with Siemens Healthineers
+worked for 4 years developing a robot bin picking system 
+- from scratch to production in multiple sites 
+- training object detection models
+- deploying to Nvidia Jetson embedded pcs
+- at IGZ Logistics & IT
+co-founder and cto of GoatSwitch AI startup
+- developing a copilot for code migration
+- automating tedious chores for software maintenance
+- learned a lot, super happy to have done it, meet a lot of awesome people
+- happy to have been part of AI Founders Heilbronn
+right now doing AI and ML freelance work
+- past clients include
+- company doing NDT (non destructive testing)
+  - helped improving ML models for crack detection for QA
+  - helped setup MLOps Pipeline
+- company doing ai powered construction management platform
+  - helped developing ai features and agents
+- reach out if you need AI expertise; always happy to talk; first consultation free of course
+right now also interested in AI safety and exploring options how to enter the field
+- there is a non negligible chance that humans develop ASI
+- alignment is hard
+- AI companies race driven by capitalism 
+- capitalism does not care about the human race
 
