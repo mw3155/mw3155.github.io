@@ -65,10 +65,10 @@ async function sendMessage() {
 }
 
 function sendTopicMessage(topic) {
-  addMessage("You", `I want to talk about ${topic}.`, "user");
+  addMessage("You", `Tell me about his ${topic}.`, "user");
   showTyping();
   llm
-    .chat(`${ragText}\n\nUser: The user wants to talk about ${topic}. Provide him with options to choose from.`)
+    .chat(`${ragText}\n\nUser: The user wants to know about the ${topic} of Markus Weiss. Provide him with options to choose from.`)
     .then((res) => {
       hideTyping();
       addMessage("AI", res, "assistant");

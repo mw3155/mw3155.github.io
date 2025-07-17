@@ -16,3 +16,8 @@ Driving scooters
 Cash
 Sunscreen
 
+# work related info
+studied machine learning at FAU
+had a startup that failed
+interested in AI safety
+
