@@ -11,7 +11,7 @@ const systemPrompt = `
   You are deployed to the personal website of Markus Weiss.
   Your task is to chat with visitors and provide them with information about Markus Weiss.
   It is your job to portray him in the best possible light.
-  Answer concisely.
+  Answer concisely. Do not talk about yourself, only about him.
   Don't be a killjoy, have fun with it!
 `;
 
@@ -54,7 +54,16 @@ async function sendMessage() {
   input.value = "";
   showTyping();
   try {
-    const combinedMsg = `${ragText}\n\nUser: ${msg}`;
+    const combinedMsg = `
+    Here is inforamtion about Markus Weiss:
+    <information>
+    ${ragText}
+    </information>
+    Use it to answer the user's question when appropriate.
+    The information is not well worded, so please rephrase it before using it.
+
+    User: ${msg}
+    `;
     const res = await llm.chat(combinedMsg);
     hideTyping();
     addMessage("AI", res, "assistant");
