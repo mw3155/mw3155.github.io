@@ -83,12 +83,13 @@ function addMessage(sender, content, type) {
   const c = document.getElementById("chatMessages");
   const d = document.createElement("div");
   d.className = type === "error" ? "error-message" : `message ${type}`;
-  d.innerHTML =
-    type === "error"
-      ? content
-      : `<div class='message-avatar'>${
-          sender === "You" ? "U" : "AI"
-        }</div><div class='message-content'>${content}</div>`;
+  if (type === "assistant" && window.marked) {
+    d.innerHTML = `<div class='message-avatar'>AI</div><div class='message-content'>${window.marked.parse(content)}</div>`;
+  } else if (type === "user") {
+    d.innerHTML = `<div class='message-avatar'>U</div><div class='message-content'>${content}</div>`;
+  } else {
+    d.innerHTML = content;
+  }
   c.appendChild(d);
   c.scrollTop = c.scrollHeight;
 }
