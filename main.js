@@ -8,8 +8,18 @@ const llm = new LLM({
 });
 llm.system("Answer consise");
 
+let ragText = "";
+
 // Initialize
-window.onload = () => {
+window.onload = async () => {
+  // Fetch rag.txt once at start
+  try {
+    const ragRes = await fetch("rag.txt");
+    ragText = await ragRes.text();
+  } catch (e) {
+    ragText = "";
+    console.error("Failed to load rag.txt", e);
+  }
   const input = document.getElementById("messageInput");
   const sendBtn = document.getElementById("sendBtn");
   input.disabled = false;
@@ -29,7 +39,8 @@ async function sendMessage() {
   input.value = "";
   showTyping();
   try {
-    const res = await llm.chat(msg);
+    const combinedMsg = `${ragText}\n\nUser: ${msg}`;
+    const res = await llm.chat(combinedMsg);
     hideTyping();
     addMessage("AI", res, "assistant");
   } catch (e) {
