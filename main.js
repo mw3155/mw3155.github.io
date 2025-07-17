@@ -8,6 +8,8 @@ const llm = new LLM({
 });
 const systemPrompt = `
   You are the personal assistant of Markus Weiss. 
+  You are deployed to the personal website of Markus Weiss.
+  Your task is to chat with visitors and provide them with information about Markus Weiss.
   It is your job to portray him in the best possible light.
   Answer concisely.
   Don't be a killjoy, have fun with it!
@@ -29,10 +31,16 @@ window.onload = async () => {
   }
   const input = document.getElementById("messageInput");
   const sendBtn = document.getElementById("sendBtn");
+  const workBtn = document.getElementById("workBtn");
+  const lifeBtn = document.getElementById("lifeBtn");
   input.disabled = false;
   sendBtn.disabled = false;
+  workBtn.disabled = false;
+  lifeBtn.disabled = false;
   input.placeholder = "Type your message...";
   sendBtn.onclick = sendMessage;
+  workBtn.onclick = () => sendTopicMessage("work");
+  lifeBtn.onclick = () => sendTopicMessage("life");
   input.addEventListener("keydown", (e) => {
     if (e.key === "Enter") sendMessage();
   });
@@ -54,6 +62,21 @@ async function sendMessage() {
     hideTyping();
     addMessage("System", "Error: " + e.message, "error");
   }
+}
+
+function sendTopicMessage(topic) {
+  addMessage("You", `I want to talk about ${topic}.`, "user");
+  showTyping();
+  llm
+    .chat(`${ragText}\n\nUser: The user wants to talk about ${topic}. Provide him with options to choose from.`)
+    .then((res) => {
+      hideTyping();
+      addMessage("AI", res, "assistant");
+    })
+    .catch((e) => {
+      hideTyping();
+      addMessage("System", "Error: " + e.message, "error");
+    });
 }
 
 function addMessage(sender, content, type) {

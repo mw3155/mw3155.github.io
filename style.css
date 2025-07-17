@@ -231,3 +231,33 @@ body {
     margin: 10px 0;
     border: 1px solid #feb2b2;
 }
+
+.topic-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 8px;
+}
+
+.work-life-btn {
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 25px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(118, 75, 162, 0.08);
+    transition: background 0.2s, transform 0.1s;
+}
+
+.work-life-btn:hover:not(:disabled) {
+    background: linear-gradient(90deg, #764ba2 0%, #667eea 100%);
+    transform: translateY(-2px) scale(1.04);
+}
+
+.work-life-btn:disabled {
+    background: #a0aec0;
+    cursor: not-allowed;
+}
