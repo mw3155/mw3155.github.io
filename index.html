@@ -2,43 +2,56 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LLM.js Chat Interface</title>
-    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 
-<body>
-    <div class="chat-container">
-        <div class="chat-header">
-            <div class="topic-buttons">
-                <button class="work-life-btn" id="workBtn" disabled>Work</button>
-                <button class="work-life-btn" id="lifeBtn" disabled>Life</button>
-            </div>
-        </div>
-
-        <div class="chat-messages" id="chatMessages">
-            <div class="message assistant">
-                <div class="message-avatar">AI</div>
-                <div class="message-content">
-                    Hi! I am the personal assistant of Markus Weiss. How can I help you?
+<body class="bg-[#282a36] min-h-screen flex flex-col justify-between">
+    <div class="flex flex-col items-center justify-center flex-1">
+        <div class="w-full max-w-lg bg-[#44475a] rounded-2xl shadow-lg mt-10 mb-6">
+            <div class="flex justify-between items-center px-6 py-4 border-b border-[#6272a4]">
+                <div class="flex items-center gap-4">
+                    <span class="text-[#f8f8f2] text-md font-bold">Topics:</span>
+                    <div class="flex gap-2">
+                        <button class="px-4 py-1 rounded-full text-sm font-medium bg-[#6272a4] text-[#f8f8f2] cursor-not-allowed"
+                            id="workBtn" disabled>Work</button>
+                        <button class="px-4 py-1 rounded-full text-sm font-medium bg-[#6272a4] text-[#f8f8f2] cursor-not-allowed"
+                            id="lifeBtn" disabled>Life</button>
+                    </div>
                 </div>
             </div>
-        </div>
-
-        <div class="chat-input">
-            <input type="text" id="messageInput" placeholder="Type your message..." value="" disabled>
-            <button class="send-btn" id="sendBtn" onclick="sendMessage()" disabled>Send</button>
+            <div class="px-6 py-4 h-96 overflow-y-auto flex flex-col gap-4" id="chatMessages">
+                <div class="flex items-start gap-3">
+                    <div class="flex items-center justify-center w-8 h-8 rounded-full bg-[#bd93f9] text-[#282a36] font-bold">
+                        AI
+                    </div>
+                    <div class="bg-[#44475a] border border-[#6272a4] rounded-xl px-4 py-2 text-[#f8f8f2] max-w-[80%]">
+                        Hi! I am the personal assistant of Markus Weiss. How can I help you?
+                    </div>
+                </div>
+            </div>
+            <div class="px-6 py-4 border-t border-[#6272a4] flex gap-2">
+                <input type="text" id="messageInput" placeholder="Type your message..." value=""
+                    disabled class="flex-1 px-4 py-2 rounded-lg border border-[#6272a4] focus:outline-none focus:ring-2 focus:ring-[#bd93f9] bg-[#282a36] text-[#f8f8f2] placeholder:text-[#6272a4]" />
+                <button
+                    class="px-5 py-2 rounded-lg bg-[#bd93f9] text-[#282a36] font-semibold shadow disabled:opacity-50"
+                    id="sendBtn" onclick="sendMessage()" disabled>Send</button>
+            </div>
         </div>
     </div>
-
-    <footer class="footer">
-        <a href="https://github.com/mw3155" target="_blank" rel="noopener" class="footer-link">GitHub</a>
-        <a href="https://www.linkedin.com/in/markus-g-weiss/" target="_blank" rel="noopener" class="footer-link">LinkedIn</a>
-        <span class="footer-link" style="user-select: all; cursor: text;">mw3155@pm.me</span>
+    <footer
+        class="w-full flex flex-col items-center gap-2 py-4 bg-[#282a36] border-t border-[#6272a4] text-[#6272a4] text-sm">
+        <div class="flex gap-4">
+            <a href="https://github.com/mw3155" target="_blank" rel="noopener"
+                class="hover:text-[#bd93f9] transition">GitHub</a>
+            <a href="https://www.linkedin.com/in/markus-g-weiss/" target="_blank" rel="noopener"
+                class="hover:text-[#bd93f9] transition">LinkedIn</a>
+            <span class="select-all cursor-text">mw3155@pm.me</span>
+        </div>
     </footer>
-
     <script type="module" src="main.js"></script>
 </body>
 

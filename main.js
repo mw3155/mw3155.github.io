@@ -93,13 +93,23 @@ function sendTopicMessage(topic) {
 function addMessage(sender, content, type) {
   const c = document.getElementById("chatMessages");
   const d = document.createElement("div");
-  d.className = type === "error" ? "error-message" : `message ${type}`;
-  if (type === "assistant" && window.marked) {
-    d.innerHTML = `<div class='message-avatar'>AI</div><div class='message-content'>${window.marked.parse(content)}</div>`;
+  if (type === "assistant") {
+    d.className = "flex items-start gap-3";
+    d.innerHTML = `
+      <div class="flex items-center justify-center w-8 h-8 rounded-full bg-[#bd93f9] text-[#282a36] font-bold">AI</div>
+      <div class="bg-[#44475a] border border-[#6272a4] rounded-xl px-4 py-2 text-[#f8f8f2] max-w-[80%]">${window.marked ? window.marked.parse(content) : content}</div>
+    `;
   } else if (type === "user") {
-    d.innerHTML = `<div class='message-avatar'>U</div><div class='message-content'>${content}</div>`;
+    d.className = "flex items-start gap-3 flex-row-reverse";
+    d.innerHTML = `
+      <div class="flex items-center justify-center w-8 h-8 rounded-full bg-[#6272a4] text-[#f8f8f2] font-bold">U</div>
+      <div class="bg-[#282a36] border border-[#6272a4] rounded-xl px-4 py-2 text-[#f8f8f2] max-w-[80%]">${content}</div>
+    `;
+  } else if (type === "error") {
+    d.className = "text-red-400 text-sm px-4 py-2";
+    d.textContent = content;
   } else {
-    d.innerHTML = content;
+    d.textContent = content;
   }
   c.appendChild(d);
   c.scrollTop = c.scrollHeight;
