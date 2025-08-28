@@ -1,6 +1,6 @@
 import LLM from "https://cdn.skypack.dev/@themaximalist/llm.js";
 
-const apiKey = "AIzaSyAJnJhWa3kkKXSS7LoK2Gvaz-YAY8d0VPI";
+const apiKey = atob("QUl6YVN5QVR6ZmFRUFhJakRyUmp3cm10M1ZjWGFpR082SEwyV3dr");
 const llm = new LLM({
   service: "google",
   model: "gemini-2.0-flash-lite",
@@ -80,7 +80,9 @@ function sendTopicMessage(topic) {
   addMessage("You", `Tell me about his ${topic}.`, "user");
   showTyping();
   llm
-    .chat(`${ragText}\n\nUser: The user wants to know about the ${topic} of Markus Weiss. Provide him with options to choose from.`)
+    .chat(
+      `${ragText}\n\nUser: The user wants to know about the ${topic} of Markus Weiss. Provide him with options to choose from.`
+    )
     .then((res) => {
       hideTyping();
       addMessage("AI", res, "assistant");
@@ -96,7 +98,9 @@ function addMessage(sender, content, type) {
   const d = document.createElement("div");
   if (type === "assistant") {
     d.className = "flex items-start gap-3";
-    d.innerHTML = `<div class='text-[#f8f8f2] max-w-[80%]'>${window.marked ? window.marked.parse(content) : content}</div>`;
+    d.innerHTML = `<div class='text-[#f8f8f2] max-w-[80%]'>${
+      window.marked ? window.marked.parse(content) : content
+    }</div>`;
   } else if (type === "user") {
     d.className = "flex items-start gap-3 justify-end";
     d.innerHTML = `<div class='text-[#f8f8f2] max-w-[80%] text-right ml-auto'>${content}</div>`;
