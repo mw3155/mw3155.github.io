@@ -1,6 +1,6 @@
 import LLM from "https://cdn.skypack.dev/@themaximalist/llm.js";
 
-const apiKey = atob("QUl6YVN5QVR6ZmFRUFhJakRyUmp3cm10M1ZjWGFpR082SEwyV3dr");
+const apiKey = atob("QUl6YVN5Q1o4OVUzeGZ3bldseUYxRDJiR0g3ZTdtRF9VZXhjZGdz");
 const llm = new LLM({
   service: "google",
   model: "gemini-2.0-flash-lite",
