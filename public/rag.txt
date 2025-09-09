@@ -1,12 +1,12 @@
 # general info
 mail, linkedin and github is linked at bottom
-you can find pictures in the images folder
+you can find pictures in the public folder
 available images:
 goatswitch.JPEG      india-people.JPEG      japan-car.JPEG   me.JPEG
 india-kolkatta.JPEG  indonesia-hiking.JPEG  japan-fuji.JPEG  south-east-asia-diving.JPEG
 feel free to use them when appropriate
-to display a image: <img src="images/me.JPEG" alt="Picture of Markus Weiss" width="500">
-choose width 500 always
+to display a image: <img src="/me.JPEG" alt="Picture of Markus Weiss" width="500">
+choose width 500 always (note the / at the beginning of the path)
 
 # life related info
 
