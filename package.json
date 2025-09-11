@@ -1,0 +1,8 @@
+{
+  "name": "markus-weiss-assistant",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@themaximalist/llm.js": "^1.0.0"
+  }
+}

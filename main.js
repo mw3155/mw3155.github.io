@@ -1,24 +1,4 @@
-import LLM from "https://cdn.skypack.dev/@themaximalist/llm.js";
-
-const apiKey = atob("QUl6YVN5Q1o4OVUzeGZ3bldseUYxRDJiR0g3ZTdtRF9VZXhjZGdz");
-const llm = new LLM({
-  service: "google",
-  model: "gemini-2.0-flash-lite",
-  apiKey,
-});
-const systemPrompt = `
-  You are the personal assistant of Markus Weiss. 
-  You are deployed to the personal website of Markus Weiss.
-  Your task is to chat with visitors and provide them with information about Markus Weiss.
-  It is your job to portray him in the best possible light.
-  Answer concisely. Do not talk about yourself, only about him.
-  Answer in rich and nicely formatted markdown.
-  Don't be a killjoy, have fun with it!
-  Markus is a humble person, so don't exaggerate too much.
-  Speak in the tone of a great narrator.
-`;
-
-llm.system(systemPrompt);
+// Frontend chat interface - backend API handles LLM calls
 
 let ragText = "";
 
@@ -57,43 +37,63 @@ async function sendMessage() {
   input.value = "";
   showTyping();
   try {
-    const combinedMsg = `
-    Here is inforamtion about Markus Weiss:
-    <information>
-    ${ragText}
-    </information>
-    Use it to answer the user's question when appropriate.
-    The information is not well worded, so please rephrase it before using it.
-
-    User: ${msg}
-    `;
-    const res = await llm.chat(combinedMsg);
+    const response = await fetch('/api/chat', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        message: msg,
+        type: 'chat',
+        ragText: ragText
+      })
+    });
+    
+    const data = await response.json();
     hideTyping();
-    addMessage("AI", res, "assistant");
+    
+    if (!response.ok) {
+      throw new Error(data.error || 'Failed to get response');
+    }
+    
+    addMessage("AI", data.response, "assistant");
   } catch (e) {
     hideTyping();
     addMessage("System", "Error: " + e.message, "error");
   }
 }
 
-function sendTopicMessage(topic) {
+async function sendTopicMessage(topic) {
   addMessage("You", `Tell me about his ${topic}.`, "user");
   showTyping();
-  llm
-    .chat(
-      `${ragText}\n\nUser: The user wants to know about the ${topic} of Markus Weiss. Provide him with options to choose from.`
-    )
-    .then((res) => {
-      hideTyping();
-      addMessage("AI", res, "assistant");
-    })
-    .catch((e) => {
-      hideTyping();
-      addMessage("System", "Error: " + e.message, "error");
+  try {
+    const response = await fetch('/api/chat', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        message: topic,
+        type: 'topic',
+        ragText: ragText
+      })
     });
+    
+    const data = await response.json();
+    hideTyping();
+    
+    if (!response.ok) {
+      throw new Error(data.error || 'Failed to get response');
+    }
+    
+    addMessage("AI", data.response, "assistant");
+  } catch (e) {
+    hideTyping();
+    addMessage("System", "Error: " + e.message, "error");
+  }
 }
 
-function addMessage(sender, content, type) {
+function addMessage(_, content, type) {
   const c = document.getElementById("chatMessages");
   const d = document.createElement("div");
   if (type === "assistant") {
