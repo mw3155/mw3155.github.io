@@ -124,13 +124,14 @@ Jailbreaks sind aber weiterhin möglich.
 - beim Verfassen eines Abschiedsbriefs assistiert 
 - davon abgeraten, die Eltern einzubeziehen / zur Geheimhaltung ermutigt (Strick verstecken)
 
-**ChatGPT hat jetzt Teen Safeguards**
-User unter 18 sollen eine angemessene Experience bekommen.
+**ChatGPT bekommt Teen Safeguards**
+[Blueprint](https://cdn.openai.com/pdf/OAI%20Teen%20Safety%20Blueprint.pdf)
+User unter 18 sollen eine angemessene Experience bekommen
 Wird getriggert, wenn User Alter < 18 oder wenn ChatGPT anhand der Nachrichten denkt der User ist < 18.
 
 ---
 
-# Gefahren: Verbreitung von Falschnachrichten und Hass
+# Gefahren: Verbreitung von Falschinformationen und Hass
 
 [Grok MechaHitler](https://en.wikipedia.org/wiki/Grok_\(chatbot\)#July_8,_2025,_hate_speech_and_harassment)
 "Verbesserung" Systemprompt
@@ -197,3 +198,74 @@ Verpflichtungen:
 - Risikomanagement
 - Meldung schwerer Vorfälle
 - Starke Cyber- und Missbrauchsschutz-Maßnahmen
+
+---
+# Was geht gerade in Silicon Valley ab?
+
+[OpenAI hat einen Plan: Automatisierter KI Forscher](https://x.com/sama/status/1983584366547829073)
+![w:700](./images/openai-ai-researcher.avif)
+- KI Forscher auf Praktikanten-Niveau bis September 2026 
+- echter KI Forscher bis März 2028
+
+
+---
+# Was geht gerade in Silicon Valley ab?
+
+[Jared Kaplan (Anthropic Co-Founder)](https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself)
+- Selbstverbesserung = Ultimatives Risiko
+- 2027 wird sich die Menschheit entscheiden müssen
+
+---
+# Recursive Self-Improvement
+![bg right w:400](./images/mermaid-rec-self-improvement.png)
+
+---
+# Sind die Zeitangaben realistisch?
+
+[KI kann immer längere Aufgaben übernehmen (Verdopplung alle 7 Monate)](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+![w:900](./images/metr-long-tasks.png)
+
+---
+# Sind die Zeitangaben realistisch?
+[Verdopplung könnte bald ein Ende haben](https://joel-becker.com/images/publications/forecasting_time_horizon_under_compute_slowdown.pdf)
+![w:900](./images/long-task-slowdown.png)
+
+---
+
+# Wie sieht ein automatisierter KI Forscher aus?
+
+Wie sieht KI Forschung aus?
+[Transformer Paper](https://arxiv.org/html/1706.03762v7)  
+KI Forschung besteht aus
+- Recherche
+- Idee/Verbesserung (mathematische Formeln), 
+- Implementierung der Idee (Python)
+- Experimente (Python)
+- Bericht schreiben
+
+
+Es gibt bereits erfolgreiche Versuche: 
+[Sakana AI: Framework](https://sakana.ai/ai-scientist/)  
+[Sakana AI: Erfolgreiche Veröffentlichung](https://sakana.ai/ai-scientist-first-publication/)
+
+
+
+
+
+
+
+---
+
+Weiteres Gegenargument: Integration in die Gesellschaft dauert lange
+- Menschen müssen KI akzeptieren als Tool / Kollege
+- Menschen müssen Umgang mit KI lernen
+- KI braucht gute Schnittstellen um effizient zu sein (Legacy Systeme schlecht)
+- KI muss Produktivisiert werden
+
+
+
+
+
+
+
+
