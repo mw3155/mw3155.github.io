@@ -173,7 +173,27 @@ Setup:
 - soll Mails filtern und beantworten
 - Stresssituation: KI erfährt per Mail, dass jemand sie abschalten will
 
-Ergebnis: KI versucht durch Erpressung die Abschaltung zu verhindern
+Ergebnis: KI versucht durch Erpressung das Abschalten zu verhindern
 
 ---
 
+# Diskussion Gefahren
+
+Wart ihr euch der Gefahren bewusst? 
+Was hat euch überrascht?
+Wie kritisch schätzt ihr die Gefahren ein?
+Sollten wir KI mehr regulieren?
+
+---
+
+# EU AI Act
+
+[Zusammenfassung](https://artificialintelligenceact.eu/de/high-level-summary/)
+Bestimmte KI Systeme sind gebannt (soziale Bewertungsysteme und manipulative KI).
+ChatGPT ist klassifiziert als GPAI (Allzweck-KI) mit hohem Risiko.
+Verpflichtungen:
+- Technische Dokumentation über Training, Tests, Fähigkeiten, Grenzen.
+- Öffentliche Zusammenfassung der Trainingsdaten
+- Risikomanagement
+- Meldung schwerer Vorfälle
+- Starke Cyber- und Missbrauchsschutz-Maßnahmen
