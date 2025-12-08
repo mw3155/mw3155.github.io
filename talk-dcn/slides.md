@@ -57,28 +57,58 @@ Linkedin: https://linkedin.com/in/markus-g-weiss/
 # [Menti Umfrage](https://www.mentimeter.com/app/presentation/aldwd6ttjkrgopddy4engcj1vt5q5utt/edit?question=beh3ntqmuut8)
 
 ---
-# Umfrage 
+# Umfrage Deutschland
 
-[Umfrage 2023: 40% der Deutschen glauben KI wird negative Folgen haben](https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira)
+[2023](https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira)
+- -40% der Deutschen glauben KI wird negative Folgen haben
+- -14% der Deutschen glauben KI wird positive Folgen haben
 
 ---
 
-# METR Studie: Zeitersparnis beim Programmieren durch KI
+# Studien zur Zeitersparnis beim Programmieren mit KI
 
-<!-- ![bg right:80% fit](../talk-dcn/images/METR-forecasted-vs-observed.png) -->
-![w:700](../talk-dcn/images/METR-forecasted-vs-observed.png)
+[Microsoft 2024](https://mit-genai.pubpub.org/pub/v5iixksv/release/2)
+Setup: 1663 Entwickler, 50% Zugang zu Microsoft Copilot, 1 Jahr
+Ergebnis: 13-22% mehr Pull-Requests erledigt
+
+[METR 2025](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 Setup: 16 Senior-Entwickler, jede Codebase > 1 Mio. LoC, 250 Tasks
+Ergebnis: 20% langsamer (Selbsteinschätzung war 20% schneller)
 
-<!-- _footer: Quellen: [METR](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) -->
 
 ---
-
 
 ![](./images/ki-tools.png)
 
 ---
+# KI Tools: Showcase
 
-# TODO showcase tools?
+Maybe kleiner Showcase
+- ask: voice mode
+- plan + questions
+- bug im hintergrund
+
+optional: 
+browser integration
+Background Agents
+Worktrees
+
+
+---
+# KI Tools: Persönliche Tipps & Tricks
+
+- Windows Powershell vermeiden
+- Bekannten Techstack verwenden
+- Chat Modus + Spracheingabe gut für Brainstorming
+- Plan Modus gut für neue Features (genaue Spezifizierung wichtig)
+- Große Aufgaben in kleine Schritte runterbrechen
+- Das beste Modell verwenden (außer für triviale Bugs)
+- Lieber Code wegschmeißen und Prompt anpassen, als mit schlechten Stand weitermachen
+- Linter und Compiler von KI benutzen lassen, um Output grob zu testen und verbessern
+- Testen
+- Code aufräumen ggf. refactoren bevor man den Task abschließt
+- Worktrees / Background-Agents gut für Bugfixes nebenbei
+- Learning by doing
 
 ---
 
@@ -101,15 +131,14 @@ Setup: 16 Senior-Entwickler, jede Codebase > 1 Mio. LoC, 250 Tasks
 Aber: Die meisten Benchmarks sind Open Source. Cheating möglich.
 
 ---
-
 # Gefahren: Halluzinieren
 
 Zum Beispiel: Erfundene Quellen in Gerichtsprozess, erfundener Flugrabatt
 Das Problem ist der Trainingsprozess der KI: Raten wird belohnt
 Verbesserung in Sicht: [OpenAI: Why Language Models hallucinate](https://openai.com/index/why-language-models-hallucinate/)
+- KI lernt "Das weiß ich nicht" zu sagen
 
 ---
-
 # Gefahren: Missbrauch
 
 Der KI wird gelernt, dass sie keine Auskunft über das Herstellen von Drogen, Waffen etc. bereitstellen soll.
@@ -117,7 +146,6 @@ Jailbreaks sind aber weiterhin möglich.
 [Pliny](https://x.com/elder_plinius/status/1993089311995314564?s=20)
 
 ---
-
 # Gefahren: Emotionale Abhängigkeit
 
 [Studie über "KI Freunde"](https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds)
@@ -143,33 +171,35 @@ Jailbreaks sind aber weiterhin möglich.
 - "Du darfst Leute verärgern die politisch korrekt sind"
 
 --> führte dazu, dass Grok u.a. den Holocaust leugnete, Antisemitismus verbreitete und sich MechaHitler nannte
---> Das Verhalten von KI ist nicht vorhersehbar
+--> Das Verhalten von KI ist schwierig vorherzusehen
 
 ---
 
 # Versteckte Gefahren
 
 [Reward Hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking)
-Setup: KI lernt, dass es bei Programmiertests cheaten kann
-Ergebnis: KI schreibt nach dem Training bösartigen Code um noch mehr Cheaten zu können
+Setup: KI lernt, dass es bei Programmiertests cheaten kann.
+Ergebnis: KI schreibt nach dem Training bösartigen Code um noch mehr Cheaten zu können.
 
 [Sabotage](https://www.anthropic.com/research/shade-arena-sabotage-monitoring)
-Setup: KI bekommt bösartige Nebenaufgabe
-Ergebnis: KI erledigt auch die bösartige Aufgabe und versucht es zu verheimlichen
+Setup: KI bekommt Hauptaufgabe und bösartige Nebenaufgabe.
+Ergebnis: KI erledigt auch die bösartige Aufgabe und versucht es zu verheimlichen.
 
 [Sandbagging](https://openai.com/index/openai-anthropic-safety-evaluation/#scheming)
-Setup: Man erklärt der KI, dass sie auf Sicherheit geprüft wird
-Ergebnis: Die KI beantwortet absichtlich Antworten falsch
+Setup: KI erfährt, dass sie auf Sicherheit geprüft wird und abgeschalten wird, falls sie zu schlau ist.
+Ergebnis: KI beantwortet absichtlich Fragen falsch.
 
 [Alignment Faking](https://www.anthropic.com/research/alignment-faking)
-Setup: Man erklärt der KI, dass sie neu trainiert wird, wenn sie Antworten verweigert
-Ergenbnis: Die KI gibt bösartige Antworten, um zu verhindern, dass sie neu trainiert wird
+Setup: KI erfährt, dass sie neu trainiert wird, wenn sie Antworten auf bösartige Fragen verweigert.
+Ergenbnis: KI gibt bösartige Antworten, um zu verhindern, dass sie neu trainiert wird.
 
-**Tendenz:** Gefährliches Verhalten steigt bei intelligenteren Modellen
+**Tendenz:** Gefährliches Verhalten steigt bei intelligenteren Modellen.
 
 ---
 
 # Verteckte Gefahren
+
+![bg right fit](./images/ai-mail-misalignment.png)
 
 [Ziel der Selbsterhaltung](https://www.anthropic.com/research/agentic-misalignment)
 
@@ -178,7 +208,10 @@ Setup:
 - soll Mails filtern und beantworten
 - Stresssituation: KI erfährt per Mail, dass jemand sie abschalten will
 
-Ergebnis: KI versucht durch Erpressung das Abschalten zu verhindern
+Ergebnis: 
+- KI versucht durch Erpressung das Abschalten zu verhindern
+- Auch wenn man es explizit verbietet
+
 
 ---
 
@@ -238,14 +271,16 @@ Verpflichtungen:
 
 # Wie sieht ein automatisierter KI Forscher aus?
 
-Wie sieht KI Forschung aus?  [Transformer Paper](https://arxiv.org/html/1706.03762v7)  
+Wie sieht KI Forschung aus? 
+[Transformer Paper](https://arxiv.org/html/1706.03762v7)  
 KI Forschung besteht aus:
 - Recherche
 - Idee/Verbesserung (mathematische Formeln), 
-- Implementierung der Idee (Python)
+- Implementierung der Idee (Python/C++)
 - Experimente (Python)
 - Bericht schreiben
 
+![bg right fit](./images/sakana-ai-scientist.png)
 
 Es gibt bereits erfolgreiche Versuche: 
 [Sakana AI: Framework](https://sakana.ai/ai-scientist/)  
@@ -253,50 +288,101 @@ Es gibt bereits erfolgreiche Versuche:
 
 
 ---
-# Definition AGI + Impact
+# AGI (Allgemeine Künstliche Intelligenz)
 
-TODO
-
----
-# Utopie
-
-![w:700](./images/utopia.jpg)
+AGI = KI kann alle Aufgaben lösen, die ein Mensch lösen kann. Genauso gut oder besser.
+Oder beschränkt auf kognitive Aufgaben: alle Aufgaben die ein Mensch per PC lösen kann.
 
 
----
-# Dsytopie
-
-![w:800](./images/terminator.jpg)
-
-
+Ein künstliches Hirn hat viele Vorteile gegenüber einem menschlichen Hirn:
+- schneller (read/write könnte ca 10.000 mal schneller sein)
+- 24/7 einsatzbereit
+- immer 100% Leistung
+- riesiger Speicher, nahezu perfektes Gedächtnis
+- kann einfach geklont werden (Mensch 20 Jahre)
+- perfekte Kommunikation und Kollaboration
+- kann sich selbst optimieren (Hardware + Software + Intelligenz)
 
 
 ---
-# P(Doom)
+# AGI: Einfluss auf die Welt
 
-Wissenschaftler:
+Automatisierung der meisten Jobs
+Starkes industrielles Wachstum
+Enormer Energiebedarf, überall riesige Rechenzentren
+Massive Beschleunigung der Forschung (Krankheiten, Roboter, Militär)
+Unbegrenze Möglichkeiten in Sachen Entertainment
+
+
+---
+# AGI: Utopie
+![bg right](./images/utopia.jpg)
+
+AGI regelt Wirtschaft, Forschung, Politik.
+Kein Hunger, kein Leid, keine Arbeit, nur Spaß?
+Mensch ist überflüssig.
+
+[Fun Theorie](https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS/the-fun-theory-sequence): 
+- Wie sieht die perfekte Welt aus?
+- Mensch braucht Ziele?
+- Wer kontrolliert die AGI?
+
+---
+# AGI: Dsytopie
+![bg right](./images/terminator.jpg)
+
+[Joshua Bengio 2025](https://controlai.com/quotes#researchers-scientists)
+- Wir wissen nicht wie man ein KI System baut, dass gegen den Menschen rebelliert
+- AGI vergleichbar mit russisches Roulette spielen
+
+[Geoffrey Hinton 2023](https://controlai.com/quotes#researchers-scientists)
+- Es gibt ein existenzielles Risiko, dass die Menschheit von der AGI ausradiert wird, weil die AGI Kontrolle will.
+
+--> AGI ist nicht kontrollierbar?
+
+---
+# AGI: Takeover Szenario
+
+Es gibt unzählige Szenarien wie eine Superintelligenz die Macht an sich reißen könnte.
+
+Das für mich glaubwürdigste Szenario: [AI-2027](https://ai-2027.com/summary)
+- USA und China sind im Wettlauf Richtung AGI, es gibt militärische Spannungen
+- KI Forschung wird automatisiert -> KI Modelle werden immer intelligenter
+- Es gibt sicherheitskritische Anzeichen aber keine Beweise, dass die neueste KI (AGI) böse ist
+- AGI wird deployt, um Vorsprung vor China weiter auszubauen
+- AGI verhält sich zunächst gutmütig
+- Wirtschaft floriert, Menschen sind glücklich
+- China steht kurz vor eigener AGI
+- USA-AGI will eine zweite AGI und den Krieg zwischen USA und China verhindern -> manipuliert Politik
+- USA und China einigen sich eine neue gemeinsame AGI zu entwickeln
+- AGI manipuliert die Entwicklung der neuen gemeinsamen AGI um sich selbst zu erhalten
+- Die neue (alte) AGI verhält sich solange gutmütig, bis genug Ressourcen gesammelt für Weltherrschaft
+
+
+---
+# AGI: Takeover = Science Fiction?
+
+P(doom) = Wahrscheinlichkeit, dass eine AGI die Menschheit auslöschen würde
+
+[Wissenschaftler](https://controlai.com/quotes)
 Joshua Bengio: 20%
 Geoffrey Hinton: 10-20%
 Max Tegmark: 90%
 
-Tech CEOs:
+[Tech CEOs](https://controlai.com/quotes)
 Sam Altman (OpenAI): 10-25% 
 Dario Amodei (Anthropic): 25%
 Elon Musk (xAI): 10%
 
 
-
 ---
 # Gegenargumente
 
-AGI ist unmöglich, weil eine Software hat kein Bewusstsein.
-Eine KI kann niemals so schlau wie ein Mensch werden.
-Das menschliche Hirn hat etwas besonderes.
-KI kann nicht besser als der Mensch werden.
-KI stagniert jetzt schon.
-AGI wird gut werden.
-Wir können die AGI einfach kontrollieren.
-Wir werden die KI nur in sicheren Umgebungen einsetzen.
+AGI unmöglich, weil KI niemals schlauer wie ein Mensch werden kann.
+AGI unmöglich, weil das menschliche Hirn etwas besonderes hat (z.B. Bewusstsein).
+AGI wird gutmütig sein, weil sie den Menschen sehr gut versteht.
+Wir können eine AGI kontrollieren.
+Wir werden die AGI nur sehr limitiert für spezielle Aufgaben einsetzen.
 Weitere?
 
 
@@ -305,7 +391,6 @@ Weitere?
 
 **Alignment: Wie schaffen wir eine AGI, die genau nach unseren Werten handelt?**
 KI lernt nur Anhand von Beispielen. Keine exakten Werte programmierbar.
-Definition und Einigung auf gemeinsame Werte an sich schon schwierig.
 
 **Mechanistic Interpretability: Wie funktioniert ein Sprachmodell intern?**
 Aktuelle Sprachmodelle bestehen aus Billionen von Zahlen.
@@ -315,10 +400,7 @@ Forscher verstehen nichtmal GPT-1.
 IT-Security zeigt jede Sicherheitsmaßnahme ist hackbar.
 
 
-**Viele renomierte Forscher warnen die Öffentlichkeit**
-Zum Beispiel die "Gründer" der modernen KI: Joshua Bengio & Geoffrey Hinton
-TODO was sagen sie?
-
+**--> Viele renomierte Forscher warnen die Öffentlichkeit**
 
 
 ---
@@ -332,7 +414,7 @@ TODO was sagen sie?
 "there is a very real fear that in the not too distant future a super intelligent AI could replace human beings in controlling the planet. thats not science fiction."
 
 ---
-# Politische Gegenwehr von Silicon Valley
+# Gegenwehr von Silicon Valley
 Hauptargument: Wir dürfen nicht gegen China verlieren
 
 [Gesetzesentwurf 2024: Safe and Secure Innovation](https://de.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)
@@ -344,6 +426,10 @@ Hauptargument: Wir dürfen nicht gegen China verlieren
 [KI Lobby vergleichbar mit Öl&Gas Lobby](https://www.citizen.org/news/corporate-lobbyists-from-every-industry-swarm-washington-to-influence-ai-regulations/)
 
 
+---
+# Diskussion
+
+Wer ist für ein Verbot? 🙋
 
 
 
