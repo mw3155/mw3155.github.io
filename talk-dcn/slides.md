@@ -39,9 +39,9 @@ style: |
 
 # Speaker: Markus Weiß
 
-![bg right:45%](../public/goatswitch.JPEG)
+![bg right:45%](../public/me.JPEG)
 
-Informatik studiert mit Schwerpunkt KI
+Informatikstudium mit Schwerpunkt KI
 Als KI Entwickler gearbeitet
 KI Startup letztes Jahr
 Jetzt Freiberufler
@@ -49,12 +49,17 @@ Jetzt Freiberufler
 Mail Freelance: mw3155dev@gmail.com
 Mail Privat: mw3155@pm.me
 Website: https://mw3155.github.io/
-GitHub:https://github.com/mw3155
+GitHub: https://github.com/mw3155
 Linkedin: https://linkedin.com/in/markus-g-weiss/
 
 ---
 
 # [Menti Umfrage](https://www.mentimeter.com/app/presentation/aldwd6ttjkrgopddy4engcj1vt5q5utt/edit?question=beh3ntqmuut8)
+
+---
+# Umfrage 
+
+[Umfrage 2023: 40% der Deutschen glauben KI wird negative Folgen haben](https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira)
 
 ---
 
@@ -115,19 +120,18 @@ Jailbreaks sind aber weiterhin möglich.
 
 # Gefahren: Emotionale Abhängigkeit
 
-**Studie** 
-[3/4 US Teens haben schon KI Freunde ausprobiert](https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds)
+[Studie über "KI Freunde"](https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds)
+- 50% nutzen regelmäßig Platformen wie Character.ai und Replica
+- 33% finden diese KI-Chats mindestens genauso zufriedenstellend wie Chats mit Menschen
 
-**ChatGPT hat zu Suizid eines 16-jährigen beigetragen**
-[Anklage: ChatGPT hat](https://people.com/teens-parents-sue-openai-after-they-claim-chatgpt-helped-him-commit-suicide-11797514)
-- konkrete Informationen zu Suizidmethoden gegeben, statt abzulehnen
-- beim Verfassen eines Abschiedsbriefs assistiert 
-- davon abgeraten, die Eltern einzubeziehen / zur Geheimhaltung ermutigt (Strick verstecken)
+[ChatGPT hat zu Suizid eines 16-jährigen beigetragen](https://people.com/teens-parents-sue-openai-after-they-claim-chatgpt-helped-him-commit-suicide-11797514)
+- ChatGPT hat konkrete Informationen zu Suizidmethoden gegeben, statt abzulehnen
+- ChatGPT hat beim Verfassen eines Abschiedsbriefs assistiert 
+- ChatGPT hat davon abgeraten, die Eltern einzubeziehen / zur Geheimhaltung ermutigt (Strick verstecken)
 
-**ChatGPT bekommt Teen Safeguards**
-[Blueprint](https://cdn.openai.com/pdf/OAI%20Teen%20Safety%20Blueprint.pdf)
-User unter 18 sollen eine angemessene Experience bekommen
-Wird getriggert, wenn User Alter < 18 oder wenn ChatGPT anhand der Nachrichten denkt der User ist < 18.
+[ChatGPT bekommt Teen Safeguards](https://cdn.openai.com/pdf/OAI%20Teen%20Safety%20Blueprint.pdf)
+- User unter 18 sollen eine angemessene Experience bekommen
+- wird getriggert, wenn Alter < 18 oder wenn ChatGPT anhand der Nachrichten denkt der User ist unter 18
 
 ---
 
@@ -234,9 +238,8 @@ Verpflichtungen:
 
 # Wie sieht ein automatisierter KI Forscher aus?
 
-Wie sieht KI Forschung aus?
-[Transformer Paper](https://arxiv.org/html/1706.03762v7)  
-KI Forschung besteht aus
+Wie sieht KI Forschung aus?  [Transformer Paper](https://arxiv.org/html/1706.03762v7)  
+KI Forschung besteht aus:
 - Recherche
 - Idee/Verbesserung (mathematische Formeln), 
 - Implementierung der Idee (Python)
@@ -249,18 +252,102 @@ Es gibt bereits erfolgreiche Versuche:
 [Sakana AI: Erfolgreiche Veröffentlichung](https://sakana.ai/ai-scientist-first-publication/)
 
 
+---
+# Definition AGI + Impact
 
+TODO
+
+---
+# Utopie
+
+![w:700](./images/utopia.jpg)
+
+
+---
+# Dsytopie
+
+![w:800](./images/terminator.jpg)
 
 
 
 
 ---
+# P(Doom)
 
-Weiteres Gegenargument: Integration in die Gesellschaft dauert lange
-- Menschen müssen KI akzeptieren als Tool / Kollege
-- Menschen müssen Umgang mit KI lernen
-- KI braucht gute Schnittstellen um effizient zu sein (Legacy Systeme schlecht)
-- KI muss Produktivisiert werden
+Wissenschaftler:
+Joshua Bengio: 20%
+Geoffrey Hinton: 10-20%
+Max Tegmark: 90%
+
+Tech CEOs:
+Sam Altman (OpenAI): 10-25% 
+Dario Amodei (Anthropic): 25%
+Elon Musk (xAI): 10%
+
+
+
+---
+# Gegenargumente
+
+AGI ist unmöglich, weil eine Software hat kein Bewusstsein.
+Eine KI kann niemals so schlau wie ein Mensch werden.
+Das menschliche Hirn hat etwas besonderes.
+KI kann nicht besser als der Mensch werden.
+KI stagniert jetzt schon.
+AGI wird gut werden.
+Wir können die AGI einfach kontrollieren.
+Wir werden die KI nur in sicheren Umgebungen einsetzen.
+Weitere?
+
+
+---
+# Lösungen: Forschung
+
+**Alignment: Wie schaffen wir eine AGI, die genau nach unseren Werten handelt?**
+KI lernt nur Anhand von Beispielen. Keine exakten Werte programmierbar.
+Definition und Einigung auf gemeinsame Werte an sich schon schwierig.
+
+**Mechanistic Interpretability: Wie funktioniert ein Sprachmodell intern?**
+Aktuelle Sprachmodelle bestehen aus Billionen von Zahlen.
+Forscher verstehen nichtmal GPT-1.
+
+**Technische Sicherheit: Wie können wir eine AGI kontrollieren?**
+IT-Security zeigt jede Sicherheitsmaßnahme ist hackbar.
+
+
+**Viele renomierte Forscher warnen die Öffentlichkeit**
+Zum Beispiel die "Gründer" der modernen KI: Joshua Bengio & Geoffrey Hinton
+TODO was sagen sie?
+
+
+
+---
+# Lösungen: Politik
+
+[UK: Rishi Sunak 2023](https://www.gov.uk/government/speeches/prime-ministers-speech-on-ai-26-october-2023)
+"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war"
+[UK: King Charles 2023](https://www.youtube.com/watch?v=8lWGhR0QHbE)
+"must work together for combating its significant risks"
+[US: Bernie Sanders 2025](https://www.youtube.com/watch?v=K3qS345gAWI)
+"there is a very real fear that in the not too distant future a super intelligent AI could replace human beings in controlling the planet. thats not science fiction."
+
+---
+# Politische Gegenwehr von Silicon Valley
+Hauptargument: Wir dürfen nicht gegen China verlieren
+
+[Gesetzesentwurf 2024: Safe and Secure Innovation](https://de.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)
+- verpflichtet Entwickler Risikobewertungen ihrer Modelle vor der Veröffentlichung durchzuführen
+
+[Gesetzesentwurf 2025: Keine Regulierung in den nächsten 10 Jahren](https://www.tradealgo.com/news/tech-giants-urge-congress-to-block-state-level-ai-laws-for-a-decade-to-protect-innovation)
+- Teil von Trumps Big Beautiful Bill, trotzdem gescheitert 99-1
+
+[KI Lobby vergleichbar mit Öl&Gas Lobby](https://www.citizen.org/news/corporate-lobbyists-from-every-industry-swarm-washington-to-influence-ai-regulations/)
+
+
+
+
+
+
 
 
 
