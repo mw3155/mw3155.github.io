@@ -81,20 +81,6 @@ Ergebnis: 20% langsamer (Selbsteinschätzung war 20% schneller)
 ![](./images/ki-tools.png)
 
 ---
-# KI Tools: Showcase
-
-Maybe kleiner Showcase
-- ask: voice mode
-- plan + questions
-- bug im hintergrund
-
-optional: 
-browser integration
-Background Agents
-Worktrees
-
-
----
 # KI Tools: Persönliche Tipps & Tricks
 
 - Windows Powershell vermeiden
@@ -270,17 +256,16 @@ Verpflichtungen:
 ---
 
 # Wie sieht ein automatisierter KI Forscher aus?
+![bg right fit](./images/sakana-ai-scientist.png)
 
-Wie sieht KI Forschung aus? 
-[Transformer Paper](https://arxiv.org/html/1706.03762v7)  
+[Wie sieht KI Forschung aus?](https://arxiv.org/html/1706.03762v7)  
 KI Forschung besteht aus:
 - Recherche
-- Idee/Verbesserung (mathematische Formeln), 
+- Idee/Verbesserung (Mathe)
 - Implementierung der Idee (Python/C++)
 - Experimente (Python)
 - Bericht schreiben
 
-![bg right fit](./images/sakana-ai-scientist.png)
 
 Es gibt bereits erfolgreiche Versuche: 
 [Sakana AI: Framework](https://sakana.ai/ai-scientist/)  
