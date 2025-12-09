@@ -53,6 +53,11 @@ GitHub: https://github.com/mw3155
 Linkedin: https://linkedin.com/in/markus-g-weiss/
 
 ---
+# DCN + KI
+
+![](./images/graph-dcn-ki.png)
+
+---
 
 # [Menti Umfrage](https://www.mentimeter.com/app/presentation/aldwd6ttjkrgopddy4engcj1vt5q5utt/edit?question=beh3ntqmuut8)
 
@@ -79,8 +84,8 @@ Ergebnis: 13-22% mehr Pull-Requests erledigt
 
 [METR 2025](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 Setup: 16 Senior-Entwickler, jede Codebase > 1 Mio. LoC, 250 Tasks
-Ergebnis: 20% langsamer (Selbsteinschätzung war 20% schneller)
-
+Selbsteinschätzung: 20% schneller
+Ergebnis: 20% langsamer 
 
 ---
 
@@ -89,7 +94,7 @@ Ergebnis: 20% langsamer (Selbsteinschätzung war 20% schneller)
 ---
 # KI Tools: Persönliche Tipps & Tricks
 
-- Windows Powershell vermeiden
+- Windows Powershell und CMD vermeiden
 - Bekannten Techstack verwenden
 - Chat-Modus + Spracheingabe gut für Brainstorming
 - Plan-Modus gut für neue Features (genaue Spezifizierung wichtig)
