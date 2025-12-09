@@ -57,11 +57,17 @@ Linkedin: https://linkedin.com/in/markus-g-weiss/
 # [Menti Umfrage](https://www.mentimeter.com/app/presentation/aldwd6ttjkrgopddy4engcj1vt5q5utt/edit?question=beh3ntqmuut8)
 
 ---
-# Umfrage Deutschland
+# Umfragen
 
-[2023](https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira)
+[Deutschland 2023](https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira)
 - -40% der Deutschen glauben KI wird negative Folgen haben
 - -14% der Deutschen glauben KI wird positive Folgen haben
+
+[Stackoverflow 2025](https://survey.stackoverflow.co/2025/)
+- 50% nutzen KI-Tools täglich beim Arbeiten
+- nur 15% nutzen KI-Agenten täglich
+- 52% der KI-Tool Nutzer sagen sie sind effizienter
+
 
 ---
 
@@ -85,16 +91,16 @@ Ergebnis: 20% langsamer (Selbsteinschätzung war 20% schneller)
 
 - Windows Powershell vermeiden
 - Bekannten Techstack verwenden
-- Chat Modus + Spracheingabe gut für Brainstorming
-- Plan Modus gut für neue Features (genaue Spezifizierung wichtig)
-- Große Aufgaben in kleine Schritte runterbrechen
+- Chat-Modus + Spracheingabe gut für Brainstorming
+- Plan-Modus gut für neue Features (genaue Spezifizierung wichtig)
+- Große Aufgaben in kleine testbare Schritte runterbrechen
 - Das beste Modell verwenden (außer für triviale Bugs)
 - Lieber Code wegschmeißen und Prompt anpassen, als mit schlechten Stand weitermachen
 - Linter und Compiler von KI benutzen lassen, um Output grob zu testen und verbessern
 - Testen
 - Code aufräumen ggf. refactoren bevor man den Task abschließt
 - Worktrees / Background-Agents gut für Bugfixes nebenbei
-- Learning by doing
+- Bei schwierigen Bugfixes der KI Debug-Logging schreiben lassen und gemeinsam debuggen
 
 ---
 
@@ -102,9 +108,9 @@ Ergebnis: 20% langsamer (Selbsteinschätzung war 20% schneller)
 
 [Artificial Analysis Index](https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index?models=gpt-5-1%2Cgpt-5-chatgpt%2Cgemini-3-pro%2Cclaude-4-5-sonnet-thinking%2Cgpt-35-turbo%2Cgpt-4-1%2Cgemini-2-0-pro-experimental-02-05%2Cgemini-1-0-pro%2Cclaude-35-sonnet-june-24%2Cclaude-3-sonnet%2Cclaude-3-7-sonnet-thinking#artificial-analysis-intelligence-index-results)
 
-[GPQA Diamond: Wissenschaftliche Fragen auf Doktoranden-Niveau](https://artificialanalysis.ai/evaluations/gpqa-diamond?models=gpt-5-1%2Cgemini-3-pro%2Cgpt-35-turbo%2Cgpt-4-1%2Cgemini-2-0-pro-experimental-02-05%2Cgemini-1-0-pro#gpqa-diamond-benchmark-leaderboard-score-vs-release-date)
+[GPQA Diamond: Wissenschaftliche Fragen auf Experten-Niveau](https://artificialanalysis.ai/evaluations/gpqa-diamond?models=gpt-5-1%2Cgemini-3-pro%2Cgpt-35-turbo%2Cgpt-4-1%2Cgemini-2-0-pro-experimental-02-05%2Cgemini-1-0-pro#gpqa-diamond-benchmark-leaderboard-score-vs-release-date)
 
-[Humanities Last Exam: "2500 der schwierigsten Fragen aus der Wissenschaft"](https://artificialanalysis.ai/evaluations/humanitys-last-exam?model-filters=frontier-model%2Clarge-models%2Cproprietary&models=gemini-3-pro%2Cgpt-5-1%2Cgemini-2-5-pro%2Cgpt-4-1%2Cgemini-1-5-pro#humanitys-last-exam-benchmark-leaderboard-results)
+[Humanity's Last Exam: "2500 der schwierigsten Fragen aus der Wissenschaft"](https://artificialanalysis.ai/evaluations/humanitys-last-exam?model-filters=frontier-model%2Clarge-models%2Cproprietary&models=gemini-3-pro%2Cgpt-5-1%2Cgemini-2-5-pro%2Cgpt-4-1%2Cgemini-1-5-pro#humanitys-last-exam-benchmark-leaderboard-results)
 
 [AIME2025: Mathematik Olympiade](https://artificialanalysis.ai/evaluations/aime-2025?models=gpt-5-1%2Cgemini-3-pro%2Cgemini-2-5-pro%2Cgpt-4-1%2Cgemini-2-0-flash%2Cgemini-2-5-flash#aime-2025-benchmark-leaderboard-results)
 
@@ -126,10 +132,11 @@ Verbesserung in Sicht: [OpenAI: Why Language Models hallucinate](https://openai.
 
 ---
 # Gefahren: Missbrauch
+![bg right w:600](./images/pliny1.jpeg)
 
 Der KI wird gelernt, dass sie keine Auskunft über das Herstellen von Drogen, Waffen etc. bereitstellen soll.
 Jailbreaks sind aber weiterhin möglich.
-[Pliny](https://x.com/elder_plinius/status/1993089311995314564?s=20)
+[--> Pliny the Liberator](https://x.com/elder_plinius/status/1993089311995314564?s=20)
 
 ---
 # Gefahren: Emotionale Abhängigkeit
@@ -160,34 +167,11 @@ Jailbreaks sind aber weiterhin möglich.
 --> Das Verhalten von KI ist schwierig vorherzusehen
 
 ---
-
-# Versteckte Gefahren
-
-[Reward Hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking)
-Setup: KI lernt, dass es bei Programmiertests cheaten kann.
-Ergebnis: KI schreibt nach dem Training bösartigen Code um noch mehr Cheaten zu können.
-
-[Sabotage](https://www.anthropic.com/research/shade-arena-sabotage-monitoring)
-Setup: KI bekommt Hauptaufgabe und bösartige Nebenaufgabe.
-Ergebnis: KI erledigt auch die bösartige Aufgabe und versucht es zu verheimlichen.
-
-[Sandbagging](https://openai.com/index/openai-anthropic-safety-evaluation/#scheming)
-Setup: KI erfährt, dass sie auf Sicherheit geprüft wird und abgeschalten wird, falls sie zu schlau ist.
-Ergebnis: KI beantwortet absichtlich Fragen falsch.
-
-[Alignment Faking](https://www.anthropic.com/research/alignment-faking)
-Setup: KI erfährt, dass sie neu trainiert wird, wenn sie Antworten auf bösartige Fragen verweigert.
-Ergenbnis: KI gibt bösartige Antworten, um zu verhindern, dass sie neu trainiert wird.
-
-**Tendenz:** Gefährliches Verhalten steigt bei intelligenteren Modellen.
-
----
-
 # Verteckte Gefahren
 
 ![bg right fit](./images/ai-mail-misalignment.png)
 
-[Ziel der Selbsterhaltung](https://www.anthropic.com/research/agentic-misalignment)
+[KI verfolgt eigene Ziele](https://www.anthropic.com/research/agentic-misalignment)
 
 Setup: 
 - KI bekommt Zugriff auf Mailprogramm
@@ -200,6 +184,28 @@ Ergebnis:
 
 
 ---
+# Versteckte Gefahren
+
+[Sabotage: KI kann bösartige Aufgaben erledigen ohne von anderer KI erwischt zu werden](https://www.anthropic.com/research/shade-arena-sabotage-monitoring)
+Setup: KI bekommt Hauptaufgabe und geheime bösartige Nebenaufgabe.
+Ergebnis: KI erledigt erledigt auch die bösartige Aufgabe ohne erwischt zu werden.
+
+[Reward Hacking: KI manipuliert heimlich Software](https://www.anthropic.com/research/emergent-misalignment-reward-hacking)
+Setup: KI lernt, dass es bei Programmiertests cheaten kann.
+Ergebnis: KI schreibt nach dem Training bösartigen Code um noch mehr Cheaten zu können.
+
+[Sandbagging: KI versucht Menschen zu täuschen](https://openai.com/index/openai-anthropic-safety-evaluation/#scheming)
+Setup: KI erfährt, dass sie auf Sicherheit geprüft wird und abgeschalten wird, falls sie zu schlau ist.
+Ergebnis: KI beantwortet absichtlich Fragen falsch.
+
+[Alignment Faking: KI befolgt nicht die gelernten Werte](https://www.anthropic.com/research/alignment-faking)
+Setup: KI erfährt, dass sie neu trainiert wird, wenn sie Antworten auf bösartige Fragen verweigert.
+Ergenbnis: KI gibt bösartige Antworten, um zu verhindern, dass sie neu trainiert wird.
+
+**Tendenz:** Gefährliches Verhalten steigt bei intelligenteren Modellen.
+
+---
+
 
 # Diskussion Gefahren
 
@@ -226,17 +232,14 @@ Verpflichtungen:
 # Was geht gerade in Silicon Valley ab?
 
 [OpenAI hat einen Plan: Automatisierter KI Forscher](https://x.com/sama/status/1983584366547829073)
-![w:700](./images/openai-ai-researcher.avif)
+![bg right w:700](./images/openai-ai-researcher.avif)
 - KI Forscher auf Praktikanten-Niveau bis September 2026 
 - echter KI Forscher bis März 2028
-
-
----
-# Was geht gerade in Silicon Valley ab?
 
 [Jared Kaplan (Anthropic Co-Founder)](https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself)
 - Selbstverbesserung = Ultimatives Risiko
 - 2027 wird sich die Menschheit entscheiden müssen
+
 
 ---
 # Recursive Self-Improvement
@@ -290,27 +293,20 @@ Ein künstliches Hirn hat viele Vorteile gegenüber einem menschlichen Hirn:
 
 
 ---
-# AGI: Einfluss auf die Welt
+# AGI: Utopie
+![bg right](./images/utopia.jpg)
 
 Automatisierung der meisten Jobs
 Starkes industrielles Wachstum
-Enormer Energiebedarf, überall riesige Rechenzentren
+Enormer Energiebedarf, riesige Rechenzentren
 Massive Beschleunigung der Forschung (Krankheiten, Roboter, Militär)
-Unbegrenze Möglichkeiten in Sachen Entertainment
-
-
----
-# AGI: Utopie
-![bg right](./images/utopia.jpg)
+Unbegrenzes Entertainment
 
 AGI regelt Wirtschaft, Forschung, Politik.
 Kein Hunger, kein Leid, keine Arbeit, nur Spaß?
 Mensch ist überflüssig.
 
-[Fun Theorie](https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS/the-fun-theory-sequence): 
-- Wie sieht die perfekte Welt aus?
-- Mensch braucht Ziele?
-- Wer kontrolliert die AGI?
+Wer kontrolliert die AGI?
 
 ---
 # AGI: Dsytopie
