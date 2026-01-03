@@ -38,24 +38,25 @@ Each meal includes standard toppings: 1 tbsp each pumpkin seeds, sesame seeds, h
 
 Spices: turmeric, black pepper, ginger powder, paprika, cumin, italian herbs.
 
-### Option 1: Grüner-Kicher-Mais-Topf
-- 180g Grünkern
-- 250g Kichererbsen (Glas)
-- 230g Mais (Glas)
+### Option 1: Freekeh-Chickpea-Corn-Bowl
+- 180g freekeh
+- 250g chickpeas
+- 230g corn
 
-### Option 2: Qui-Kidney-Erbsen-Möhren-Topf
-- 180g Quinoa
-- 240g Kidney-Bohnen (Glas)
-- 220g Erbsen & Möhren (Glas)
+### Option 2: Quinoa-Kidney-Pea-Carrot-Bowl
+- 180g quinoa
+- 240g kidney beans
+- 220g peas & carrots
 
-### Option 3: Tofu-Toffel-Champignon-Topf
-- 200g Tofu
-- 900g Kartoffeln (Glas)
-- 170g Champignons (Glas)
+### Option 3: Tofu-Potato-Mushroom-Bowl
+- 200g tofu
+- 900g potatoes
+- 170g champignons
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
 | ~700 | ~30g | ~100g | ~19g |
+
 
 ---
 
