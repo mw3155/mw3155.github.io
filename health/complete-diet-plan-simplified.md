@@ -1,12 +1,5 @@
 # Daily Meal Plan
 
-## Daily Goals
-- **Calories:** 2,200 kcal
-- **Protein:** 105g minimum
-- **Macro Split:** 60% carbs, 25% fat, 15% protein
-
----
-
 ## Breakfast ~8am
 
 Green tea
