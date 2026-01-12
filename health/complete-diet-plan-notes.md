@@ -1,6 +1,7 @@
 ## Daily Goals
-- **Total Calories:** 2,200 kcal (10-20% caloric restriction)
-- **Protein:** roughly 1.5x body weight ~ 105g
+- Caloric maintenance (Mifflin–St Jeor) ~ 2250 kcal
+- Mild caloric restriction (longevity) ~ 1,900–2,100 kcal (−5 to −15 %)
+- Protein: roughly 1.5x body weight ~ 105g
 
 ---
 
@@ -105,23 +106,23 @@ per day in ct
 
 berries 130
 spinach 50
-nüsse 50
+nuts 50
 
 protein 220
 kakao 38
-hanf 17
+hemp 17
 chia 12
-zimt 10
-leinsamen free
+cinnamon 10
+flaxseeds free
 
 
 cholin 20
-creatin 20
+creatin 40
 omega3 63
 calc 10
 free: b12, zink, vitC, k2, jod, d3
 
--> daily supps ~ 650
+-> daily supps ~ 700
 protein und omega3 teuer!
 
 
