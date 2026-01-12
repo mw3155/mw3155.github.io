@@ -89,13 +89,13 @@ mittag
 ~~ 2000mg
 
 
-abendbrot
-4 slices vollkorn: 500mg
-140g linsenaufstrich: 500mg
-sellerie/rotebeete/gurken/sauerkraut ~ 300mg
-~ 1300mg
+abendbrot  
+4 slices vollkorn: 500mg  
+140g linsenaufstrich: 500mg  
+sellerie/rotebeete/gurken/sauerkraut ~ 300mg  
+~ 1300mg  
 
-i have already enough wo banana
+i have already enough wo banana  
 
 
 ---
