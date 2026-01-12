@@ -4,29 +4,33 @@
 
 ## Supplements
 
-### Lunch
+### 10min Before Breakfast 
+
+- **Probiotic:** 10-25 billion CFU
+
+### After Lunch
 
 - **B12:** 100mcg
 - **Vitamin K2:** 100mcg
 - **Omega-3:** 300-500mg
-- **Choline:** 400-500mg
 - **Iodine:** 150mcg
 - **Calcium:** 500mg
+- **Creatine:** 5g
 - **Vitamin D:** 2000-3000 IU (every second day)
 
 Note: calcium noon after shake with spinach to avoid oxalate
 
-### Dinner
+### After Dinner
 
-- **Creatine:** 5g
+- **Choline:** 400-500mg
 - **Vitamin C:** 250mg
-- **Probiotic:** 10-25 billion CFU
 - **Magnesium:** 400mg
 - **Zinc:** 15-20mg
+- **Shiitake:** 1500mg
 
 ---
 
-## Breakfast
+## Breakfast ~ 10am
 
 Green tea
 
