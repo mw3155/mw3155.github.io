@@ -18,7 +18,7 @@ Note: calcium noon after shake with spinach to avoid oxalate
 
 ### Dinner
 
-- **Creatine:** 3g
+- **Creatine:** 5g
 - **Vitamin C:** 250mg
 - **Probiotic:** 10-25 billion CFU
 - **Magnesium:** 400mg
