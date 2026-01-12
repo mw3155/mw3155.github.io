@@ -1,5 +1,5 @@
 ## Daily Goals
-- **Total Calories:** 2,200 kcal
+- **Total Calories:** 2,200 kcal (10-20% caloric restriction)
 - **Protein:** roughly 1.5x body weight ~ 105g
 
 ---
@@ -26,9 +26,11 @@ fat 26.9
 
 | Item                                     | Amount |    kcal | Protein (g) | Carbs (g) | Fiber (g) | Fat (g) | Salt (g) |
 | ---------------------------------------- | -----: | ------: | ----------: | --------: | --------: | ------: | -------: |
-| **Quinoa (uncooked)**                    |  150 g |     552 |        21.2 |      96.3 |      10.5 |     9.1 |       ~0 |
+| **Quinoa (uncooked)**                    |  150 g |     585 |        18.6 |     101.1 |       8.3 |     9.9 |       ~0 |
 | **Brown rice / Vollkornreis (uncooked)** |  150 g |     555 |        11.3 |     115.5 |      11.3 |     4.1 |       ~0 |
 | **Grünkern (uncooked)**                  |  150 g |     486 |        16.5 |      94.5 |      13.5 |     4.5 |       ~0 |
+| **Bulgur (uncooked)**                    |  150 g |     513 |        16.5 |     100.5 |      14.4 |     2.3 |       -0 |
+| **Couscous (uncooked)**                  |  150 g |     527 |        19.5 |      99.0 |      12.5 |     3.2 |       -0 |
 | **Potatoes (cooked)**                    |  450 g |     387 |         7.5 |      90.0 |       8.1 |     0.5 |       ~0 |
 | **Kidney beans (canned, drained)**       |  240 g |     259 |        19.2 |      36.0 |         — |     1.9 |     0.48 |
 | **Chickpeas (cooked/canned)**            |  250 g |     318 |        19.5 |      37.5 |         — |     6.3 |     0.48 |
@@ -37,26 +39,16 @@ fat 26.9
 | **Corn**                                 |  230 g |     212 |         6.7 |      34.5 |         — |     3.5 |     0.81 |
 | **Champignons**                          |  170 g |      37 |         3.4 |       3.1 |       4.6 |     0.3 |     0.71 |
 | **Tomato passata**                       |  350 ml|      63 |         2.5 |      10.8 |         - |     0.4 |     0.02 |
+| **Broccoli frozen**                      |  150 g |      48 |         3.5 |       4.8 |         - |     0.6 |     0.05 |
+| **Carrots (bio)**                        |  100 g |      41 |         0.9 |      10.0 |       3.6 |     0.2 |     0.07 |
 
 
 | Combo                                    |  kcal | Protein (g) | Carbs (g) | Fiber (g) | Fat (g) | Salt (g) |
-| ---------------------------------------- | ----: | ----------: | --------: | --------: | ------: | -------: |
-| **grünkern + chickpeas + corn**          | 1,016 |        42.7 |     166.5 |      13.5 |    14.3 |     1.29 |
-| **quinoa + kidney beans + peas/carrots** |   910 |        45.2 |     146.6 |      10.5 |    12.1 |     1.25 |
-| **tofu + rice 100g + mush + potatoes**   | 1,038 |        42.4 |     171.1 |      24.0 |    17.7 |     0.73 |
-
-| **Tofu + rice + mushrooms + potatoes**   | 1,223 |        46.2 |     209.6 |      27.8 |    19.1 |     0.73 |
-| **tofu + brown rice + mushrooms**        |   836 |        38.7 |     119.6 |      19.7 |    18.6 |     0.71 |
-| **tofu + potatoes + corn**               |   843 |        38.2 |     125.5 |      11.9 |    18.2 |     0.81 |
-| **grünkern + chickpeas + peas/carrots**  |   903 |        40.8 |     146.3 |      13.5 |    11.9 |     1.25 |
-| **quinoa + kidney beans + corn**         | 1,023 |        47.1 |     166.8 |      10.5 |    14.5 |     1.29 |
-
-
-
-seidentofu 400g alnatura
-200kcal
-8g fett
-20g protein
+|------------------------------------------|-------|-------------|-----------|-----------|---------|----------|
+| Bulgur (150g) + Tofu (200g)              |   757 |        40.5 |     101.5 |      18.2 |    16.5 |    <0.02 |
+| Quinoa (150g) + Kidney beans (240g)      |   844 |        37.8 |     137.1 |       8.3 |    11.8 |     0.48 |
+| Grünkern (150g) + Chickpeas (250g)       |   804 |        36.0 |     132.0 |      13.5 |    10.8 |     0.48 |
+| Passata + Broccoli + Carrots             |   152 |         6.9 |      25.6 |       3.6 |     1.2 |     0.14 |
 
 Brotaufstrich, Belugalinse Balsamico
 Durchschnittliche Nährwertangaben	pro 100 g
