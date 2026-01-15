@@ -19,7 +19,7 @@ export default async function handler(req, res) {
 
   const llm = new LLM({
     service: "google",
-    model: "gemini-2.0-flash-lite",
+    model: "gemini-2.5-flash-lite",
     apiKey,
   });
 
