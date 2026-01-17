@@ -50,7 +50,7 @@ Mail Freelance: mw3155dev@gmail.com
 Mail Privat: mw3155@pm.me
 Website: https://mw3155.github.io/
 GitHub: https://github.com/mw3155
-Linkedin: https://linkedin.com/in/markus-g-weiss/
+Linkedin: https://linkedin.com/in/mw3155/
 
 ---
 # DCN + KI

@@ -1,0 +1,128 @@
+\documentclass{muratcan_cv}
+
+\setname{Markus}{Weiß}
+\setaddress{Ringstr. 23, 92637 Weiden in der Oberpfalz}
+\setmobile{0172/4179388}
+\setmail{mw3155@protonmail.com}
+\setlinkedinaccount{https://www.linkedin.com/in/markus-g-weiss/} %you can play with color of the template (red is also nice..)
+\setgithubaccount{https://github.com/mw3155} %you can play with color of the template (red is also nice..)
+\setthemecolor{cyan} %you can play with color of the template (red is also nice..)
+
+\begin{document}
+%Set variables
+%You can add sections, texts, explanations just by copying the style below. Replace the dummy texts "\lipsum[1][x-x]\par" with actual texts.
+%Create header
+\headerview
+\vspace{1ex}
+%Sections
+% Experience
+\section{Beruflicher Werdegang}
+    %
+    \datedexperience{Machine Learning Engineer}{01/2020 - 09/2023} 
+    \explanation{IGZ Ingenieurgesellschaft für logistische Informationssysteme mbH, Falkenberg} 
+    \explanationdetail{
+    \coloredbullet\
+    Produkt Owner der Bildverarbeitung des IGZ Kommissionierroboters
+    \\
+    \coloredbullet\ 
+    Entwurf und Implementierung einer Daten- und Trainingspipeline für Segmentierungsnetze
+    \\
+    \coloredbullet\ 
+    Konzeption und Entwicklung einer KI-Anwendung zur Codegenerierung
+    \\
+    \coloredbullet\ 
+    Betreuung von mehreren Bachelor- und Masterarbeiten im Themenfeld Deep Learning
+    \\
+    \coloredbullet\ 
+    Erarbeitung von Entscheidungsgrundlagen zum Thema KI mit Vorstellung bei der Geschäftsführung
+    \\
+    \coloredbullet\ 
+    Präsentation von Fachvorträgen zum Thema KI in der Logistik für internes und externes Publikum
+    }
+
+%
+
+%Education
+\section{Ausbildung} 
+    \datedexperience{Master of Science Informatik}{10/2016-09/2019} 
+    \explanationdetail{
+     Friedrich-Alexander-Universität Erlangen-Nürnberg
+     \\
+     Vertiefungsrichtung: Mustererkennung
+     \\
+     Masterarbeit 
+     \\
+     \coloredbullet\ 
+     Titel: Learning-based Correspondence Estimation for 2-D/3-D Image Registration
+     \\
+     \coloredbullet\ 
+     Standort: Siemens Healthineers AG, Forchheim
+     \\ 
+     Abschlussnote: 1.8
+    }
+    \datedexperience{Bachelor of Science Informatik}{04/2012-03/2017} 
+    \explanationdetail{
+     Friedrich-Alexander-Universität Erlangen-Nürnberg
+     \\
+     Vertiefungsrichtung: IT-Sicherheit
+     \\
+     Bachelorarbeit
+     \\
+     \coloredbullet\ 
+     Titel: An extensive survey of the Reverse Engineering tools for Android
+     \\
+     \coloredbullet\ 
+     Standort: Lehrstuhl für Informatik 1, Erlangen
+     \\
+     Abschlussnote: 2.5
+     }
+     \datedexperience{Bachelor of Science Wirtschaftsmathematik}{10/2011-03/2012} 
+     \explanationdetail{
+     Friedrich-Alexander-Universität Erlangen-Nürnberg
+     \\
+     Wechsel zu Informatik nach einem Semester
+     }    
+     \datedexperience{Allgemeine Hochschulreife}{08/2002-05/2011} 
+     \explanationdetail{
+     Augustinus Gymnasium, Weiden in der Oberpfalz
+     \\
+     Abschlussnote: 2.2
+     }
+%
+
+% Skills
+\section{Besondere Kenntnisse}
+    %
+    \newcommand{\skillone}{\createskill{Sprachen}{\textbf{\emph{Muttersprache:}} \ \  Deutsch \ \ \textbf{\emph{Verhandlungssicher:}} \ \  Englisch}}
+    %
+    \newcommand{\skilltwo}{\createskill{Programmiersprachen}{\textbf{\emph{Sehr gut:}} \ \  Python \cpshalf C++ \ \ \textbf{\emph{Gut:}} \ \  Java \cpshalf C\# \cpshalf Bash \cpshalf C}}
+    %
+    \newcommand{\skillthree}{\createskill{Frameworks \ \& \ Libraries}{
+    PyTorch \cpshalf Tensorflow \cpshalf Huggingface \cpshalf
+    Jupyter \cpshalf Pandas \cpshalf Scikit-learn 
+    }}
+    %
+    \newcommand{\skillfour}{\createskill{Software \ \& \ Tools}{
+    Git \cpshalf CLI \cpshalf Microsoft Azure \cpshalf Excel \cpshalf Powerpoint
+    }}
+    %
+    \newcommand{\skillfive}{\createskill{Sonstiges}{
+    Linux \cpshalf BDD/TDD \cpshalf Agile/Scrum 
+    }}
+    %
+    \createskills{\skillone, \skilltwo, \skillthree, \skillfour, \skillfive}
+%
+% Experience
+\section{Interessen}
+    \newcommand{\extraone}{%
+    Laufen, Podcasts, Reisen, Tauchen, Snowboarden
+    }
+    %
+    \newcommand{\listofextras}{\extraone}
+    %
+    \createbullets{\listofextras}
+%
+%Footnote
+\createfootnote
+\end{document}
+
