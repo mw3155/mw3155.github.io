@@ -144,11 +144,13 @@ Total per portion: 477 kcal, 23g protein, 75g carbs, 7.8g fat
 
 Total: 311 kcal, 8.4g protein, 12.4g carbs, 26.9g fat
 
-
 ### Total (1 portion + toppings)
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
 | 800 | 31g | 87g | 34.5g |
+
+Note: hemp and sesame seeds are kinda optional. no huge additional health benefits.
+if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 
 ---
 
