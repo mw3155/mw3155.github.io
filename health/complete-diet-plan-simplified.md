@@ -8,17 +8,15 @@
 
 - **Probiotic:** 10-25 billion CFU
 
-### After Lunch
+### After Lunch Smoothie
 
 - **B12:** 100mcg
 - **Vitamin K2:** 100mcg
 - **Omega-3:** 300-500mg
 - **Iodine:** 150mcg
-- **Calcium:** 500mg
+- **Calcium:** 400mg (for spinach oxalate binding)
 - **Creatine:** 5g
-- **Vitamin D:** 2000-3000 IU (every second day)
-
-Note: calcium noon after shake with spinach to avoid oxalate
+- **Vitamin D:** 2000IU
 
 ### After Dinner
 
@@ -26,6 +24,7 @@ Note: calcium noon after shake with spinach to avoid oxalate
 - **Vitamin C:** 250mg
 - **Magnesium:** 400mg
 - **Zinc:** 15-20mg
+- **Calcium:** 400mg (for meeting calcium requirements)
 - **Shiitake:** 1500mg
 
 ---
