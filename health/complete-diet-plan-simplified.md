@@ -7,6 +7,7 @@
 ### 10min Before Breakfast 
 
 - **Probiotic:** 10-25 billion CFU
+- **Zinc:** 15-20mg
 
 ### After Lunch Smoothie
 
@@ -23,7 +24,6 @@
 - **Choline:** 400-500mg
 - **Vitamin C:** 250mg
 - **Magnesium:** 400mg
-- **Zinc:** 15-20mg
 - **Calcium:** 400mg (for meeting calcium requirements)
 - **Shiitake:** 1500mg
 
