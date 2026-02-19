@@ -71,7 +71,7 @@ Note: meals are eaten half half over 2 days. so each meal contains 2 portions.
 - 240g kidney beans (canned, drained)
 - 150g frozen broccoli
 - 100g carrots
-- 350ml tomato passata
+- 40g tomato paste
 
 Total for 2 portions: 996 kcal, 44.7g protein, 162.7g carbs, 13.0g fat
 Per portion: 498 kcal, 22.4g protein, 81.4g carbs, 6.5g fat
@@ -81,7 +81,7 @@ Per portion: 498 kcal, 22.4g protein, 81.4g carbs, 6.5g fat
 - 250g chickpeas (cooked/canned)
 - 150g frozen broccoli
 - 100g carrots
-- 350ml tomato passata
+- 40g tomato paste
 
 Total for 2 portions: 956 kcal, 42.9g protein, 157.6g carbs, 12.0g fat
 Per portion: 478 kcal, 21.5g protein, 78.8g carbs, 6.0g fat
@@ -91,7 +91,7 @@ Per portion: 478 kcal, 21.5g protein, 78.8g carbs, 6.0g fat
 - 200g tofu
 - 150g frozen broccoli
 - 100g carrots
-- 350ml tomato passata
+- 40g tomato paste
 
 Total for 2 portions: 909 kcal, 47.4g protein, 127.1g carbs, 17.7g fat
 Per portion: 455 kcal, 23.7g protein, 63.6g carbs, 8.9g fat
@@ -107,20 +107,18 @@ Per portion: 455 kcal, 23.7g protein, 63.6g carbs, 8.9g fat
 
 **Cooking Instructions**
 - Everything is done with just one large pot
-- First bring water to boil
 - Rinse quinoa / soaked freekeh / bulgur with cold water and put into pot
 - Bring pot to boil with triple the amount of water
+- Add 40g tomato passata
+- Add all spices
 - Cook on medium heat for ~10-15min
 - Meanwhile prepare everything
 - Drain and rinse beans / chickpeas in strainer (better digestibility)
-- Cut tofu in little cubes
-- Cut carrots
+- Cut tofu and carrots in little pieces
 - Place broccoli on a plate so it can thaw a bit
 - Collect everything on a large plate
 - By now ~ 10min have passed
 - Add all prepared ingredients to the pot
-- Add 350ml tomato passata
-- Add all spices
 - Stir well
 - Let simmer for another ~15 min (low-mid heat ~ 3.5/9)
 - Cut onion and garlic for toppings
