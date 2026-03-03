@@ -4,34 +4,32 @@
 
 ## Supplements
 
-### 10min Before Breakfast 
-
-- **Probiotic:** 10-25 billion CFU
-- **Zinc:** 15-20mg
-- **B12:** 100mcg
-
 ### After Lunch Smoothie
-
-- **Iodine:** 150mcg
-- **Omega-3:** 300-500mg
 - **Calcium:** 400mg (for spinach oxalate binding)
 - **Creatine:** 5g
 
 ### After Dinner
-
+- **Iodine:** 150mcg
+- **B12:** 100mcg
 - **Vitamin D:** 2000IU
 - **Vitamin K2:** 100mcg
+- **Omega-3:** 600mg DHA & 300mg EPA
 - **Choline:** 400-500mg
 - **Vitamin C:** 250mg
-- **Magnesium:** 400mg
 - **Calcium:** 400mg (for meeting calcium requirements)
 - **Shiitake:** 1500mg
+
+### Before Bed
+- **Zinc:** 15-20mg
+- **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
+- **Probiotic:** 20 billion CFU
+
 
 ---
 
 ## Breakfast ~ 10am
 
-Green tea
+Matcha
 
 Note: I do intermittent fasting.
 
