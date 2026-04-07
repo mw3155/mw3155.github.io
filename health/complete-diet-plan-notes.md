@@ -122,8 +122,33 @@ omega3 45
 calc 10
 free: b12, zink, vitC, k2, jod, d3
 
--> daily supps ~ 450
+oats ~ 10ct
 
+-> daily supps ~ 460
+
+
+# kosten meal
+bulgur 500g 130ct pP 40
+grünkern 300 pP 90
+quinoa 300 pP 90
+tofu 200g 100
+bohnen 150
+kicher 100
+= qibo 240
+= frchick 190
+= bultofu 140
+
+brokkoli 250 pP 125
+karotten pP 100
+tompaste 200g 160 pP 40
+= 265
+
+1mal kochen:
+400 bis 500 + gewürze 50ct
+auf zwei tage!
+
+TODO:
+abendbrot
 
 
 ---
