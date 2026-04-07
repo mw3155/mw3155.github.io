@@ -104,11 +104,11 @@ i have already enough wo banana
 # kosten supplements
 per day in ct
 
-berries 130
-spinach 50
+berries 100
+spinach 40
 nuts 50
 
-protein 220
+protein 60
 kakao 38
 hemp 17
 chia 12
@@ -118,13 +118,11 @@ flaxseeds free
 
 cholin 20
 creatin 40
-omega3 63
+omega3 45
 calc 10
 free: b12, zink, vitC, k2, jod, d3
 
--> daily supps ~ 700
-protein und omega3 teuer!
-
+-> daily supps ~ 450
 
 
 
