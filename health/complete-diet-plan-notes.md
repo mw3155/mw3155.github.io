@@ -120,11 +120,12 @@ cholin 20
 creatin 40  
 omega3 45  
 calc 10  
+shiitake 40
 free: b12, zink, vitC, k2, jod, d3  
 
 oats ~ 10ct  
 
--> daily supps ~ 500    
+-> daily supps ~ 530    
 
 
 # kosten meal
