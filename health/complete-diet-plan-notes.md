@@ -76,18 +76,18 @@ Eiweiß	5,9g
 Salz	1,6g
 
 ---
-Potassium intake
-ziel: 3400mg
+Potassium intake  
+ziel: 3400mg  
 
-banana: 400mg
+banana: 400mg  
 
-shake without banana
-~900mg
-
-mittag
-~ qui-kid-ka: 1300mg
-+ passata 175ml = 700mg
-~~ 2000mg
+shake without banana  
+~900mg  
+ 
+mittag  
+~ qui-kid-ka: 1300mg  
++ passata 175ml = 700mg  
+~~ 2000mg  
 
 
 abendbrot  
@@ -102,53 +102,53 @@ i have already enough wo banana
 ---
 
 # kosten supplements
-per day in ct
+per day in ct  
 
-berries 100
-spinach 40
-nuts 50
+berries 100  
+spinach 40  
+nuts 50  
 
-protein 60
-kakao 38
-hemp 17
-chia 12
-cinnamon 10
-flaxseeds free
+protein 60  
+kakao 38  
+hemp 17  
+chia 12  
+cinnamon 10  
+flaxseeds free  
 
+probiotica 33  
+cholin 20  
+creatin 40  
+omega3 45  
+calc 10  
+free: b12, zink, vitC, k2, jod, d3  
 
-cholin 20
-creatin 40
-omega3 45
-calc 10
-free: b12, zink, vitC, k2, jod, d3
+oats ~ 10ct  
 
-oats ~ 10ct
-
--> daily supps ~ 460
+-> daily supps ~ 500    
 
 
 # kosten meal
-bulgur 500g 130ct pP 40
-grünkern 300 pP 90
-quinoa 300 pP 90
-tofu 200g 100
-bohnen 150
-kicher 100
-= qibo 240
-= frchick 190
-= bultofu 140
+bulgur 500g 130ct pP 40  
+grünkern 300 pP 90  
+quinoa 300 pP 90  
+tofu 200g 100  
+bohnen 150  
+kicher 100  
+= qibo 240  
+= frchick 190  
+= bultofu 140  
 
-brokkoli 250 pP 125
-karotten pP 100
-tompaste 200g 160 pP 40
-= 265
+brokkoli 250 pP 125  
+karotten pP 100  
+tompaste 200g 160 pP 40  
+= 265  
 
-1mal kochen:
-400 bis 500 + gewürze 50ct
-auf zwei tage!
+1mal kochen:  
+400 bis 500 + gewürze 50ct  
+auf zwei tage!  
 
 TODO:
-abendbrot
+abendbrot  
 
 
 ---
