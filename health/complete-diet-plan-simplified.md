@@ -178,15 +178,14 @@ Lunch + Afternoon + Dinner
 
 ---
 
-I fast once a month for 36h for health benefits.
-During that time I only drink water, coffee, tee, bit salt.
-And these supplements:
-Magnesium -- actually supports autophagy pathways
-Zinc -- supports autophagy; take if your stomach handles it fine
-B12, Iodine, Vitamin C -- no impact on autophagy signaling
-Vitamin D, K2 -- absorption is suboptimal without fat, but missing a day is fine; if you take them anyway some still gets through
-Probiotic -- no autophagy impact
-Choline -- actually supports autophagy via phosphatidylcholine synthesis; fine to take
+I fast once a month for 36h for health benefits.  
+During that time I only drink water, coffee, tee, bit salt.  
+And these supplements:  
+Magnesium -- actually supports autophagy pathways  
+Zinc -- supports autophagy; take if your stomach handles it fine  
+B12, Iodine, Vitamin C -- no impact on autophagy signaling  
+Vitamin D, K2 -- absorption is suboptimal without fat, but missing a day is fine; if you take them anyway some still gets through  
+Probiotic -- no autophagy impact  
 
 ---
 
