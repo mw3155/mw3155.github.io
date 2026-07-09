@@ -17,12 +17,12 @@
 - **Choline:** 400-500mg
 - **Vitamin C:** 250mg
 - **Calcium:** 400mg (for meeting calcium requirements)
-- **Shiitake:** 1500mg
+- **Shiitake:** 1500mg (not sure how useful)
 
 ### Before Bed
 - **Zinc:** 15-20mg
 - **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
-- **Probiotic:** 20 billion CFU
+- **Probiotic:** 20 billion CFU (not sure how useful)
 
 
 ---
@@ -43,7 +43,7 @@ Note: I do intermittent fasting.
 - 50g oats
 - 1 tbsp flax seeds
 - 1 tbsp chia seeds
-- 1 tbsp cocoa nibs
+- 1 tbsp cocoa nibs (not sure how useful)
 - 30g pea protein
 - water
 - 1 tsp cinnamon
@@ -107,7 +107,7 @@ Per portion: 455 kcal, 23.7g protein, 63.6g carbs, 8.9g fat
 - Everything is done with just one large pot
 - Rinse quinoa / soaked freekeh / bulgur with cold water and put into pot
 - Bring pot to boil with triple the amount of water
-- Add 40g tomato passata
+- Add 40g tomato paste
 - Add all spices
 - Cook on medium heat for ~10-15min
 - Meanwhile prepare everything
@@ -136,7 +136,7 @@ Total per portion: 477 kcal, 23g protein, 75g carbs, 7.8g fat
 - 1 tbsp apple vinegar
 - 1 clove garlic
 - half small onion
-- spices: turmeric, black pepper, ginger powder, paprika, cumin, italian herbs
+- spices: turmeric, black pepper, cumin, italian herbs
 
 Total: 311 kcal, 8.4g protein, 12.4g carbs, 26.9g fat
 
@@ -178,12 +178,12 @@ Lunch + Afternoon + Dinner
 
 ---
 
-I fast once a month for 36h for health benefits.  
+I fast once a month for 36h for potential health benefits.  
 During that time I only drink water, coffee, tee, bit salt.  
 And these supplements:  
 Magnesium -- actually supports autophagy pathways  
 Zinc -- supports autophagy; take if your stomach handles it fine  
-B12, Iodine, Vitamin C -- no impact on autophagy signaling  
+B12, Iodine, Vitamin C
 Vitamin D, K2 -- absorption is suboptimal without fat, but missing a day is fine; if you take them anyway some still gets through  
 Probiotic -- no autophagy impact  
 
