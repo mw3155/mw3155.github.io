@@ -38,7 +38,7 @@ Note: I do intermittent fasting.
 ## Lunch Smoothie ~ 12pm
 
 ### Ingredients
-- 75g frozen berries
+- 75g frozen berries (best: wild blueberry or blackcurrant)
 - 1 banana or 1 apple
 - 50g oats
 - 1 tbsp flax seeds
