@@ -4,7 +4,7 @@
 
 ## Supplements
 
-### After Lunch Smoothie
+### With Lunch Smoothie
 - **Creatine:** 5g
 
 ### After Dinner
