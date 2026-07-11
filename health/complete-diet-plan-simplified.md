@@ -5,7 +5,6 @@
 ## Supplements
 
 ### After Lunch Smoothie
-- **Calcium:** 400mg (for spinach oxalate binding)
 - **Creatine:** 5g
 
 ### After Dinner
@@ -23,6 +22,7 @@
 - **Zinc:** 15-20mg
 - **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
 - **Probiotic:** 20 billion CFU (not sure how useful)
+- **Gylcine:** 3g for falling asleep faster
 
 
 ---
@@ -39,7 +39,7 @@ Note: I do intermittent fasting.
 
 ### Ingredients
 - 75g frozen berries
-- 75g frozen spinach
+- 1 banana or 1 apple
 - 50g oats
 - 1 tbsp flax seeds
 - 1 tbsp chia seeds
@@ -49,12 +49,11 @@ Note: I do intermittent fasting.
 - 1 tsp cinnamon
 - 1 tsp ginger powder
 
-kcal 540
-carbs 52g (39%)
+kcal 600
+carbs 75g (39%)
 fat 18.5g (31%)
-protein 40g (30%)
+protein 38g (30%)
 
-Note: it's an aquired taste
 
 
 ---
