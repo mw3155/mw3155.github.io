@@ -156,7 +156,6 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 - 50g lentil spread
 - 50g lupins spread
 - 25g pickles
-- 25g sauerkraut
 - 25g red beet
 - 30g nuts
 
