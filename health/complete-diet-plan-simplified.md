@@ -43,11 +43,11 @@ Note: I do intermittent fasting.
 - 50g oats
 - 1 tbsp flax seeds
 - 1 tbsp chia seeds
-- 1 tbsp cocoa nibs (not sure how useful)
 - 30g pea protein
 - water
 - 1 tsp cinnamon
 - 1 tsp ginger powder
+- 1 tbp turmeric
 
 kcal 600
 carbs 75g (39%)
@@ -131,11 +131,11 @@ Total per portion: 477 kcal, 23g protein, 75g carbs, 7.8g fat
 - 1 tbsp sesame seeds
 - 1 tbsp pumpkin seeds
 - 1 tbsp hemp seeds
-- 1 tbsp olive oil (drizzle raw)
+- 1 tbsp olive oil
 - 1 tbsp apple vinegar
 - 1 clove garlic
 - half small onion
-- spices: turmeric, black pepper, cumin, italian herbs
+- spices: black pepper, cumin, italian herbs
 
 Total: 311 kcal, 8.4g protein, 12.4g carbs, 26.9g fat
 
