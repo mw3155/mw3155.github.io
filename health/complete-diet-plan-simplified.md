@@ -49,12 +49,11 @@ Note: I do intermittent fasting.
 - 1 tsp ginger powder
 - 1 tbp turmeric
 
-kcal 600
-carbs 75g (39%)
-fat 18.5g (31%)
-protein 38g (30%)
 
-
+### Total (1 portion)
+| kcal | Protein | Carbs | Fat |
+|------|---------|-------|-----|
+| 600 | 37g | 58g | 14g |
 
 ---
 
