@@ -20,6 +20,7 @@
 
 ### Before Bed
 - **Zinc:** 15-20mg
+- **Selen:** 50mcg
 - **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
 - **Probiotic:** 20 billion CFU (not sure how useful)
 - **Gylcine:** 3g for falling asleep faster
