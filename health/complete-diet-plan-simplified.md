@@ -151,7 +151,7 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 ## Dinner ~8pm
 
 ### Ingredients
-- 50g lentils (dry)
+- 75g lentils (dry)
 - 90g red beet
 - 50g radishes
 - 1 tbsp olive oil
@@ -162,7 +162,9 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 840 | 28g | 100g | 33g |
+| 910 | 34g | 113g | 34g |
+
+
 
 
 ---
@@ -173,7 +175,8 @@ Lunch + Afternoon + Dinner
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 2240 | 96g (17%) | 269g (47%) | 83.5g (33%) |
+| 2350 | 17% (102g) | 48% (282g) | 32% (84g) |
+
 
 ---
 
