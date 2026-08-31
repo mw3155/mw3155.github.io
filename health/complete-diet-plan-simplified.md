@@ -151,17 +151,17 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 ## Dinner ~8pm
 
 ### Ingredients
-- 200g whole grain bread
-- 50g lentil spread
-- 50g lupins spread
-- 25g pickles
-- 25g red beet
+- 50g lentils (dry)
+- 90g red beet
+- 50g radishes
+- 1 tbsp olive oil
+- 1 tbsp apple vinegar
+- 150g bread
 - 30g nuts
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 752 | 30g | 90g | 30g |
-
+| 725 | 29g | 91g | 30g |
 
 ---
 
