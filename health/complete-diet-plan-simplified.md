@@ -158,7 +158,7 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 - 1 tbsp olive oil
 - 1 tbsp apple vinegar
 - 150g bread
-- 30g nuts
+- 30g nuts (mixed fine, or just some almonds, hazelnut, walnut, cashews)
 
 
 | kcal | Protein | Carbs | Fat |
