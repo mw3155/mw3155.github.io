@@ -47,13 +47,13 @@ Note: I do intermittent fasting.
 - water
 - 1 tsp cinnamon
 - 1 tsp ginger powder
-- 1 tbp turmeric
+- 1 tsp turmeric
 
 
 ### Total (1 portion)
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 600 | 37g | 58g | 14g |
+| 600 | 37g | 82g | 16g |
 
 ---
 
@@ -159,9 +159,11 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 - 150g bread
 - 30g nuts
 
+
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 725 | 29g | 91g | 30g |
+| 840 | 28g | 100g | 33g |
+
 
 ---
 
@@ -169,9 +171,9 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 
 Lunch + Afternoon + Dinner
 
-| kcal | Protein (g) | Carbs (g) | Fat (g) |
-|------|-------------|-----------|---------|
-| **2,100** | **101 (20%)** | **229 (45%)** | **83 (35%)** |
+| kcal | Protein | Carbs | Fat |
+|------|---------|-------|-----|
+| 2240 | 96g (17%) | 269g (47%) | 83.5g (33%) |
 
 ---
 
