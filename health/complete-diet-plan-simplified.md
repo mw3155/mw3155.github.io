@@ -23,7 +23,7 @@
 - **Selen:** 50mcg
 - **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
 - **Probiotic:** 20 billion CFU (not sure how useful)
-- **Gylcine:** 3g for falling asleep faster
+- **Glycine:** 3g for falling asleep faster
 
 
 ---
@@ -42,8 +42,7 @@ Note: I do intermittent fasting.
 - 75g frozen berries (best: wild blueberry or blackcurrant)
 - 1 banana or 1 apple
 - 50g oats
-- 1 tbsp flax seeds
-- 1 tbsp chia seeds
+- 1 tbsp flax seeds (ground/geschrotet, main ALA source)
 - 30g pea protein
 - water
 - 1 tsp cinnamon
@@ -54,7 +53,7 @@ Note: I do intermittent fasting.
 ### Total (1 portion)
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 600 | 37g | 82g | 16g |
+| 540 | 35g | 77g | 12g |
 
 ---
 
@@ -65,33 +64,36 @@ Note: meals are eaten half half over 2 days. so each meal contains 2 portions.
 
 ### Option 1: Quinoa-Kidney-Bean-Bowl
 - 150g quinoa (uncooked)
+- 80g red lentils (dry)
 - 240g kidney beans (canned, drained)
 - 150g frozen broccoli
-- 100g carrots
+- 200g carrots
 - 40g tomato paste
 
-Total for 2 portions: 996 kcal, 44.7g protein, 162.7g carbs, 13.0g fat
-Per portion: 498 kcal, 22.4g protein, 81.4g carbs, 6.5g fat
+Total for 2 portions: 1323 kcal, 64.8g protein, 222.7g carbs, 15.0g fat
+Per portion: 662 kcal, 32.4g protein, 111.4g carbs, 7.5g fat
 
 ### Option 2: Freekeh-Chickpea-Bowl
 - 150g freekeh/grünkern (uncooked)
+- 80g red lentils (dry)
 - 250g chickpeas (cooked/canned)
 - 150g frozen broccoli
-- 100g carrots
+- 200g carrots
 - 40g tomato paste
 
-Total for 2 portions: 956 kcal, 42.9g protein, 157.6g carbs, 12.0g fat
-Per portion: 478 kcal, 21.5g protein, 78.8g carbs, 6.0g fat
+Total for 2 portions: 1283 kcal, 63.0g protein, 217.6g carbs, 14.0g fat
+Per portion: 642 kcal, 31.5g protein, 108.8g carbs, 7.0g fat
 
 ### Option 3: Bulgur-Tofu-Bowl
 - 150g bulgur (uncooked)
+- 80g red lentils (dry)
 - 200g tofu
 - 150g frozen broccoli
-- 100g carrots
+- 200g carrots
 - 40g tomato paste
 
-Total for 2 portions: 909 kcal, 47.4g protein, 127.1g carbs, 17.7g fat
-Per portion: 455 kcal, 23.7g protein, 63.6g carbs, 8.9g fat
+Total for 2 portions: 1236 kcal, 67.5g protein, 187.1g carbs, 19.7g fat
+Per portion: 618 kcal, 33.8g protein, 93.6g carbs, 9.9g fat
 
 <details>
 <summary>Cooking Instructions</summary>
@@ -104,8 +106,8 @@ Per portion: 455 kcal, 23.7g protein, 63.6g carbs, 8.9g fat
 
 **Cooking Instructions**
 - Everything is done with just one large pot
-- Rinse quinoa / soaked freekeh / bulgur with cold water and put into pot
-- Bring pot to boil with triple the amount of water
+- Rinse quinoa / soaked freekeh / bulgur and red lentils with cold water and put into pot
+- Bring pot to boil with triple the amount of water (plus ~250ml extra for the lentils)
 - Add 40g tomato paste
 - Add all spices
 - Cook on medium heat for ~10-15min
@@ -125,27 +127,23 @@ Per portion: 455 kcal, 23.7g protein, 63.6g carbs, 8.9g fat
 </details>
 
 ### Average Meal
-Total per portion: 477 kcal, 23g protein, 75g carbs, 7.8g fat
+Total per portion: 641 kcal, 32.6g protein, 104.6g carbs, 8.1g fat
 
 ### Toppings (per portion)
-- 1 tbsp sesame seeds
-- 1 tbsp pumpkin seeds
-- 1 tbsp hemp seeds
+- 15g sunflower seeds (vitamin E)
 - 1 tbsp olive oil
 - 1 tbsp apple vinegar
 - 1 clove garlic
 - half small onion
+- pinch of mustard powder (optional, on the broccoli: restores sulforaphane formation in frozen broccoli)
 - spices: black pepper, cumin, italian herbs
 
-Total: 311 kcal, 8.4g protein, 12.4g carbs, 26.9g fat
+Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 
 ### Total (1 portion + toppings)
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 800 | 31g | 87g | 34.5g |
-
-Note: hemp and sesame seeds are kinda optional. no huge additional health benefits.
-if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
+| 885 | 37g | 116g | 29g |
 
 ---
 
@@ -154,16 +152,16 @@ if ommitted this saves ~ 100kcal, 5g protein, 3g carbs, 10g fat
 ### Ingredients
 - 75g lentils (dry)
 - 90g red beet
-- 50g radishes
+- 50g rucola
 - 1 tbsp olive oil
 - 1 tbsp apple vinegar
 - 150g bread
-- 30g nuts (mixed fine, or just some almonds, hazelnut, walnut, cashews)
+- 30g walnuts (optionally mixed with some almonds)
 
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 910 | 34g | 113g | 34g |
+| 930 | 34g | 110g | 38g |
 
 
 
@@ -176,7 +174,7 @@ Lunch + Afternoon + Dinner
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 2350 | 17% (102g) | 48% (282g) | 32% (84g) |
+| 2355 | 18% (106g) | 51% (303g) | 30% (79g) |
 
 
 ---
