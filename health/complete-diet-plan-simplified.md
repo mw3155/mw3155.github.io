@@ -151,8 +151,17 @@ Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 
 ### Ingredients
 - 75g lentils (dry)
-- 90g red beet
-- 50g rucola
+- 2 raw veggies, choose from:
+  - red beet
+  - rucola
+  - kohlrabi
+  - red cabbage
+  - lamb's lettuce
+  - parsley
+  - radicchio
+  - radishes
+  - rettich
+  - apple
 - 1 tbsp olive oil
 - 1 tbsp apple vinegar
 - 150g bread
