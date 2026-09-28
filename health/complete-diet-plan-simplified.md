@@ -173,8 +173,6 @@ Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 | 930 | 34g | 110g | 38g |
 
 
-
-
 ---
 
 ## Daily Grand Total
@@ -185,6 +183,7 @@ Lunch + Afternoon + Dinner
 |------|---------|-------|-----|
 | 2355 | 18% (106g) | 51% (303g) | 30% (79g) |
 
+can lower grains 150g->100g and bread 150g->100g to save 200kcal daily.
 
 ---
 
