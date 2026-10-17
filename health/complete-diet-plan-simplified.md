@@ -16,27 +16,22 @@
 - **Choline:** 400-500mg
 - **Vitamin C:** 250mg
 - **Calcium:** 400mg (for meeting calcium requirements)
-- **Shiitake:** 1500mg (not sure how useful)
 
 ### Before Bed
 - **Zinc:** 15-20mg
 - **Selen:** 50mcg
 - **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
-- **Probiotic:** 20 billion CFU (not sure how useful)
 - **Glycine:** 3g for falling asleep faster
 
+---
+
+## Breakfast
+
+Matcha (wait 2h until eating something nutritious)
 
 ---
 
-## Breakfast ~ 10am
-
-Matcha
-
-Note: I do intermittent fasting.
-
----
-
-## Lunch Smoothie ~ 12pm
+## Lunch Smoothie
 
 ### Ingredients
 - 75g frozen berries (best: wild blueberry or blackcurrant)
@@ -165,7 +160,7 @@ Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 - 1 tbsp olive oil
 - 1 tbsp apple vinegar
 - 150g bread
-- 30g walnuts (optionally mixed with some almonds)
+- 30g walnuts
 
 
 | kcal | Protein | Carbs | Fat |
@@ -184,17 +179,6 @@ Lunch + Afternoon + Dinner
 | 2355 | 18% (106g) | 51% (303g) | 30% (79g) |
 
 can lower grains 150g->100g and bread 150g->100g to save 200kcal daily.
-
----
-
-I fast once a month for 36h for potential health benefits.  
-During that time I only drink water, coffee, tee, bit salt.  
-And these supplements:  
-Magnesium -- actually supports autophagy pathways  
-Zinc -- supports autophagy; take if your stomach handles it fine  
-B12, Iodine, Vitamin C
-Vitamin D, K2 -- absorption is suboptimal without fat, but missing a day is fine; if you take them anyway some still gets through  
-Probiotic -- no autophagy impact  
 
 ---
 
