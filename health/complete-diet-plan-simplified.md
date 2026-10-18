@@ -4,7 +4,7 @@
 
 ## Supplements
 
-### With Lunch Smoothie
+### With Smoothie
 - **Creatine:** 5g
 
 ### After Dinner
@@ -23,6 +23,8 @@
 - **Magnesium:** 200mg (also contained in nuts, seeds, oats, bread, beans. already have ~500 per day)
 - **Glycine:** 3g for falling asleep faster
 
+Note: take calcium, zinc and magnesium separately from the main meal (oxalate in spinach/red beet and phytate bind minerals). Vitamins are not affected.
+
 ---
 
 ## Breakfast
@@ -31,7 +33,7 @@ Matcha (wait 2h until eating something nutritious)
 
 ---
 
-## Lunch Smoothie
+## Smoothie
 
 ### Ingredients
 - 75g frozen berries (best: wild blueberry or blackcurrant)
@@ -52,43 +54,48 @@ Matcha (wait 2h until eating something nutritious)
 
 ---
 
-## Afternoon Meal ~ 4pm
+## Main Meal ~ 4pm
 
 Note: meals are eaten half half over 2 days. so each meal contains 2 portions.
 
+Leafy greens: alternate between frozen kale (Grünkohl) and frozen spinach from pot to pot.
+
 
 ### Option 1: Quinoa-Kidney-Bean-Bowl
-- 150g quinoa (uncooked)
+- 80g quinoa (uncooked)
 - 80g red lentils (dry)
 - 240g kidney beans (canned, drained)
-- 150g frozen broccoli
+- 150g frozen kale or spinach
+- 200g red beet (cooked, jar, drained)
 - 200g carrots
 - 40g tomato paste
 
-Total for 2 portions: 1323 kcal, 64.8g protein, 222.7g carbs, 15.0g fat
-Per portion: 662 kcal, 32.4g protein, 111.4g carbs, 7.5g fat
+Total for 2 portions: 1157 kcal, 60.0g protein, 196.1g carbs, 11.6g fat
+Per portion: 579 kcal, 30.0g protein, 98.1g carbs, 5.8g fat
 
 ### Option 2: Freekeh-Chickpea-Bowl
-- 150g freekeh/grünkern (uncooked)
+- 80g freekeh/grünkern (uncooked)
 - 80g red lentils (dry)
 - 250g chickpeas (cooked/canned)
-- 150g frozen broccoli
+- 150g frozen kale or spinach
+- 200g red beet (cooked, jar, drained)
 - 200g carrots
 - 40g tomato paste
 
-Total for 2 portions: 1283 kcal, 63.0g protein, 217.6g carbs, 14.0g fat
-Per portion: 642 kcal, 31.5g protein, 108.8g carbs, 7.0g fat
+Total for 2 portions: 1130 kcal, 59.3g protein, 191.8g carbs, 13.2g fat
+Per portion: 565 kcal, 29.7g protein, 95.9g carbs, 6.6g fat
 
 ### Option 3: Bulgur-Tofu-Bowl
-- 150g bulgur (uncooked)
+- 80g bulgur (uncooked)
 - 80g red lentils (dry)
 - 200g tofu
-- 150g frozen broccoli
+- 150g frozen kale or spinach
+- 200g red beet (cooked, jar, drained)
 - 200g carrots
 - 40g tomato paste
 
-Total for 2 portions: 1236 kcal, 67.5g protein, 187.1g carbs, 19.7g fat
-Per portion: 618 kcal, 33.8g protein, 93.6g carbs, 9.9g fat
+Total for 2 portions: 1089 kcal, 64.0g protein, 152.3g carbs, 19.7g fat
+Per portion: 545 kcal, 32.0g protein, 76.2g carbs, 9.9g fat
 
 <details>
 <summary>Cooking Instructions</summary>
@@ -97,6 +104,7 @@ Per portion: 618 kcal, 33.8g protein, 93.6g carbs, 9.9g fat
 - The gram amounts for jars are already the drained weight
 - I only buy everything in jars, no cans; and always organic
 - Fresh vegetables taste better of course, but the nutrients in jars are almost the same
+- Red beet: buy plain cooked (naturbelassen), not the sweet-sour pickled kind with added sugar
 - Soak freekeh the evening before in a bowl of water and put in refrigerator (better digestibility)
 
 **Cooking Instructions**
@@ -108,12 +116,12 @@ Per portion: 618 kcal, 33.8g protein, 93.6g carbs, 9.9g fat
 - Cook on medium heat for ~10-15min
 - Meanwhile prepare everything
 - Drain and rinse beans / chickpeas in strainer (better digestibility)
-- Cut tofu and carrots in little pieces
-- Place broccoli on a plate so it can thaw a bit
+- Cut tofu, carrots and red beet in little pieces
+- Place frozen kale/spinach on a plate so it can thaw a bit
 - Collect everything on a large plate
 - By now ~ 10min have passed
 - Add all prepared ingredients to the pot
-- Stir well
+- Stir well (everything turns pink from the red beet, that's fine)
 - Let simmer for another ~15 min (low-mid heat ~ 3.5/9)
 - Cut onion and garlic for toppings
 - Put portion on plate and add all the toppings
@@ -122,7 +130,7 @@ Per portion: 618 kcal, 33.8g protein, 93.6g carbs, 9.9g fat
 </details>
 
 ### Average Meal
-Total per portion: 641 kcal, 32.6g protein, 104.6g carbs, 8.1g fat
+Total per portion: 563 kcal, 30.6g protein, 90.0g carbs, 7.4g fat
 
 ### Toppings (per portion)
 - 15g sunflower seeds (vitamin E)
@@ -130,7 +138,6 @@ Total per portion: 641 kcal, 32.6g protein, 104.6g carbs, 8.1g fat
 - 1 tbsp apple vinegar
 - 1 clove garlic
 - half small onion
-- pinch of mustard powder (optional, on the broccoli: restores sulforaphane formation in frozen broccoli)
 - spices: black pepper, cumin, italian herbs
 
 Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
@@ -138,13 +145,15 @@ Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 ### Total (1 portion + toppings)
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 885 | 37g | 116g | 29g |
+| 807 | 35g | 102g | 28g |
 
 ---
 
 ## Dinner ~8pm
 
-### Ingredients
+### Option A: Lentils, Raw Veggies & Bread
+
+#### Ingredients
 - 75g lentils (dry)
 - 2 raw veggies, choose from:
   - red beet
@@ -159,26 +168,42 @@ Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
   - apple
 - 1 tbsp olive oil
 - 1 tbsp apple vinegar
-- 150g bread
+- 100g bread
 - 30g walnuts
-
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 930 | 34g | 110g | 38g |
+| 815 | 30g | 90g | 37g |
 
+### Option B: yfood Shake & Walnuts (alternative for traveling)
+
+#### Ingredients
+- 400ml yfood vegan vanilla (powder mixed with water, 400ml finished shake)
+- 30g walnuts
+
+| kcal | Protein | Carbs | Fat |
+|------|---------|-------|-----|
+| 596 | 31g | 38g | 37g |
+
+Shake (400ml) contains 26 vitamins & minerals at ~30-96% NRV, 6g fiber. Walnuts keep ALA and polyphenols that the shake lacks. Sweetened with sucralose.
 
 ---
 
 ## Daily Grand Total
 
-Lunch + Afternoon + Dinner
+Smoothie + Main Meal + Dinner
 
+### With Dinner Option A
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 2355 | 18% (106g) | 51% (303g) | 30% (79g) |
+| 2162 | 18% (100g) | 50% (269g) | 32% (77g) |
 
-can lower grains 150g->100g and bread 150g->100g to save 200kcal daily.
+### With Dinner Option B (traveling)
+| kcal | Protein | Carbs | Fat |
+|------|---------|-------|-----|
+| 1943 | 21% (100g) | 45% (217g) | 36% (77g) |
+
+Vegetables + fruit per day: ~500g (DGE recommendation: 400g vegetables + 250g fruit; mortality benefit in large cohorts plateaus around 400-500g).
 
 ---
 
