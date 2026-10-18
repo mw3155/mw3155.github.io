@@ -178,14 +178,14 @@ Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 ### Option B: yfood Shake & Walnuts (alternative for traveling)
 
 #### Ingredients
-- 400ml yfood vegan vanilla (powder mixed with water, 400ml finished shake)
+- 500ml yfood vegan vanilla (powder mixed with water, 500ml finished shake)
 - 30g walnuts
 
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 596 | 31g | 38g | 37g |
+| 696 | 38g | 46g | 41g |
 
-Shake (400ml) contains 26 vitamins & minerals at ~30-96% NRV, 6g fiber. Walnuts keep ALA and polyphenols that the shake lacks. Sweetened with sucralose.
+Shake (500ml) contains 26 vitamins & minerals at ~38-120% NRV, 7.5g fiber. Walnuts keep ALA and polyphenols that the shake lacks. Sweetened with sucralose.
 
 ---
 
@@ -201,7 +201,7 @@ Smoothie + Main Meal + Dinner
 ### With Dinner Option B (traveling)
 | kcal | Protein | Carbs | Fat |
 |------|---------|-------|-----|
-| 1943 | 21% (100g) | 45% (217g) | 36% (77g) |
+| 2043 | 21% (108g) | 44% (225g) | 36% (81g) |
 
 Vegetables + fruit per day: ~500g (DGE recommendation: 400g vegetables + 250g fruit; mortality benefit in large cohorts plateaus around 400-500g).
 
