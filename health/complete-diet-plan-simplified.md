@@ -42,9 +42,6 @@ Matcha (wait 2h until eating something nutritious)
 - 1 tbsp flax seeds (ground/geschrotet, main ALA source)
 - 30g pea protein
 - water
-- 1 tsp cinnamon
-- 1 tsp ginger powder
-- 1 tsp turmeric
 
 
 ### Total (1 portion)
@@ -138,7 +135,7 @@ Total per portion: 563 kcal, 30.6g protein, 90.0g carbs, 7.4g fat
 - 1 tbsp apple vinegar
 - 1 clove garlic
 - half small onion
-- spices: black pepper, cumin, italian herbs
+- spices for taste: black pepper, cumin, italian herbs
 
 Total: 244 kcal, 4.1g protein, 11.5g carbs, 21.0g fat
 
